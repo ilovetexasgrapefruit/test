@@ -7,75 +7,75 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Wed, 08 Sep 2021 13:45:00 CDT</pubDate>
+      <pubDate>Wed, 08 Sep 2021 14:45:00 CDT</pubDate>
 
-      <lastBuildDate>Wed, 08 Sep 2021 13:45:00 CDT</lastBuildDate>
+      <lastBuildDate>Wed, 08 Sep 2021 14:45:00 CDT</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.8.2</generator>
       <ttl>5.000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 09/08/2021 01:45:00 PM</title>
+         <title>Weather Conditions at 09/08/2021 02:45:00 PM</title>
          <link></link>
          <description>
-           Outside temperature: 88.1&#176;F; 
-           Barometer: 29.910 inHg; 
-           Wind: 0 mph from    N/A; 
+           Outside temperature: 91.8&#176;F; 
+           Barometer: 29.895 inHg; 
+           Wind: 3 mph from 126&#176;; 
            Rain rate: 0.00 in/hr; 
            Inside temperature: 73.2&#176;F
          </description>
-         <pubDate>Wed, 08 Sep 2021 13:45:00 CDT</pubDate>
+         <pubDate>Wed, 08 Sep 2021 14:45:00 CDT</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                09/08/2021 01:45:00 PM<br/>
-             Outside Temperature: 88.1&#176;F<br/>
+             Time:                09/08/2021 02:45:00 PM<br/>
+             Outside Temperature: 91.8&#176;F<br/>
              Inside Temperature:  73.2&#176;F<br/>
-             Wind Chill:          88.1&#176;F<br/>
-             Heat Index:          93.1&#176;F<br/>
-             Dewpoint:            69.7&#176;F<br/>
-             Humidity:            55%<br/>
-             Barometer:           29.910 inHg<br/>
-             Wind:                0 mph from    N/A<br/>
+             Wind Chill:          91.8&#176;F<br/>
+             Heat Index:          98.7&#176;F<br/>
+             Dewpoint:            71.1&#176;F<br/>
+             Humidity:            51%<br/>
+             Barometer:           29.895 inHg<br/>
+             Wind:                3 mph from 126&#176;<br/>
              Rain Rate:           0.00 in/hr<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 09/08/2021 01:45:00 PM</title>
+         <title>Daily Weather Summary as of 09/08/2021 02:45:00 PM</title>
          <link></link>
          <description>
 	        Min outside temperature: 65.7&#176;F at 06:07:23 AM;
-         	Max outside temperature: 89.2&#176;F at 01:36:57 PM;
+         	Max outside temperature: 92.5&#176;F at 02:44:18 PM;
 	        Min inside temperature:  71.2&#176;F at 12:01:45 AM;
 	        Max inside temperature:  73.2&#176;F at 01:37:46 PM;
 	        Min barometer:           29.864 inHg at 12:02:45 AM;
 	        Max barometer:           30.033 inHg at 08:18:12 AM;
-            Max wind :               0 mph from    N/A at 12:00:03 AM;
+            Max wind :               6 mph from 135&#176; at 02:25:55 PM;
             Rain today:              0.12 in
          </description>
-         <pubDate>Wed, 08 Sep 2021 13:45:00 CDT</pubDate>
+         <pubDate>Wed, 08 Sep 2021 14:45:00 CDT</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
              Day:                     08 Sep 2021<br/>
 	         Min Outside Temperature: 65.7&#176;F at 06:07:23 AM<br/>
-	         Max Outside Temperature: 89.2&#176;F at 01:36:57 PM<br/>
+	         Max Outside Temperature: 92.5&#176;F at 02:44:18 PM<br/>
 	         Min Inside Temperature:  71.2&#176;F at 12:01:45 AM<br/>
 	         Max Inside Temperature:  73.2&#176;F at 01:37:46 PM<br/>
 	         Min Barometer:           29.864 inHg at 12:02:45 AM<br/>
 	         Max Barometer:           30.033 inHg at 08:18:12 AM<br/>
-             Max Wind :               0 mph from    N/A at 12:00:03 AM<br/>
+             Max Wind :               6 mph from 135&#176; at 02:25:55 PM<br/>
              Rain today:              0.12 in<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 09/08/2021 01:45:00 PM</title>
+         <title>Monthly Weather Summary as of 09/08/2021 02:45:00 PM</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 64.8&#176;F at 09/07/2021 07:19:50 AM;
@@ -84,10 +84,10 @@
 	        Max inside temperature:  73.6&#176;F at 09/02/2021 01:49:33 PM;
 	        Min barometer:           29.704 inHg at 09/01/2021 05:55:00 PM;
 	        Max barometer:           30.033 inHg at 09/08/2021 08:18:12 AM;
-            Max wind :               1 mph from 158&#176; at 09/02/2021 07:00:09 PM;
+            Max wind :               6 mph from 135&#176; at 09/08/2021 02:25:55 PM;
             Rain total for month:    1.33 in
          </description>
-         <pubDate>Wed, 08 Sep 2021 13:45:00 CDT</pubDate>
+         <pubDate>Wed, 08 Sep 2021 14:45:00 CDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   September 2021<br/>
@@ -97,14 +97,14 @@
 	         Min Inside Temperature:  70.7&#176;F at 09/07/2021 09:25:59 PM<br/>
 	         Min Barometer:           29.704 inHg at 09/01/2021 05:55:00 PM<br/>
 	         Max Barometer:           30.033 inHg at 09/08/2021 08:18:12 AM<br/>
-             Max Wind :               1 mph from 158&#176; at 09/02/2021 07:00:09 PM<br/>
+             Max Wind :               6 mph from 135&#176; at 09/08/2021 02:25:55 PM<br/>
              Rain total for month:    1.33 in<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 09/08/2021 01:45:00 PM</title>
+         <title>Yearly Weather Summary as of 09/08/2021 02:45:00 PM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: -32.1&#176;F at 02/11/2021 08:36:48 AM;
@@ -116,7 +116,7 @@
             Max wind :               29 mph from    N/A at 01/15/2021 02:30:01 PM;
             Rain total for year:     995.72 in
          </description>
-         <pubDate>Wed, 08 Sep 2021 13:45:00 CDT</pubDate>
+         <pubDate>Wed, 08 Sep 2021 14:45:00 CDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2021<br/>
