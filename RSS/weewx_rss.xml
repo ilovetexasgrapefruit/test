@@ -7,36 +7,36 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Thu, 23 Sep 2021 03:45:00 CDT</pubDate>
+      <pubDate>Thu, 23 Sep 2021 04:45:00 CDT</pubDate>
 
-      <lastBuildDate>Thu, 23 Sep 2021 03:45:00 CDT</lastBuildDate>
+      <lastBuildDate>Thu, 23 Sep 2021 04:45:00 CDT</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.8.2</generator>
       <ttl>5.000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 09/23/2021 03:45:00 AM</title>
+         <title>Weather Conditions at 09/23/2021 04:45:00 AM</title>
          <link></link>
          <description>
-           Outside temperature: 54.0&#176;F; 
-           Barometer: 30.121 inHg; 
+           Outside temperature: 52.8&#176;F; 
+           Barometer: 30.113 inHg; 
            Wind: 0 mph from    N/A; 
            Rain rate: 0.00 in/hr; 
-           Inside temperature: 72.0&#176;F
+           Inside temperature: 71.8&#176;F
          </description>
-         <pubDate>Thu, 23 Sep 2021 03:45:00 CDT</pubDate>
+         <pubDate>Thu, 23 Sep 2021 04:45:00 CDT</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                09/23/2021 03:45:00 AM<br/>
-             Outside Temperature: 54.0&#176;F<br/>
-             Inside Temperature:  72.0&#176;F<br/>
-             Wind Chill:          54.0&#176;F<br/>
-             Heat Index:          54.0&#176;F<br/>
-             Dewpoint:            45.0&#176;F<br/>
-             Humidity:            72%<br/>
-             Barometer:           30.121 inHg<br/>
+             Time:                09/23/2021 04:45:00 AM<br/>
+             Outside Temperature: 52.8&#176;F<br/>
+             Inside Temperature:  71.8&#176;F<br/>
+             Wind Chill:          52.8&#176;F<br/>
+             Heat Index:          52.8&#176;F<br/>
+             Dewpoint:            44.4&#176;F<br/>
+             Humidity:            73%<br/>
+             Barometer:           30.113 inHg<br/>
              Wind:                0 mph from    N/A<br/>
              Rain Rate:           0.00 in/hr<br/>
         </p>
@@ -44,29 +44,29 @@
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 09/23/2021 03:45:00 AM</title>
+         <title>Daily Weather Summary as of 09/23/2021 04:45:00 AM</title>
          <link></link>
          <description>
-	        Min outside temperature: 54.0&#176;F at 03:30:48 AM;
+	        Min outside temperature: 52.5&#176;F at 04:44:57 AM;
          	Max outside temperature: 57.7&#176;F at 12:16:39 AM;
 	        Min inside temperature:  71.4&#176;F at 01:01:58 AM;
 	        Max inside temperature:  72.3&#176;F at 12:00:41 AM;
-	        Min barometer:           30.118 inHg at 03:25:40 AM;
+	        Min barometer:           30.112 inHg at 04:25:57 AM;
 	        Max barometer:           30.133 inHg at 02:22:22 AM;
             Max wind :               0 mph from    N/A at 12:00:04 AM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Thu, 23 Sep 2021 03:45:00 CDT</pubDate>
+         <pubDate>Thu, 23 Sep 2021 04:45:00 CDT</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
              Day:                     23 Sep 2021<br/>
-	         Min Outside Temperature: 54.0&#176;F at 03:30:48 AM<br/>
+	         Min Outside Temperature: 52.5&#176;F at 04:44:57 AM<br/>
 	         Max Outside Temperature: 57.7&#176;F at 12:16:39 AM<br/>
 	         Min Inside Temperature:  71.4&#176;F at 01:01:58 AM<br/>
 	         Max Inside Temperature:  72.3&#176;F at 12:00:41 AM<br/>
-	         Min Barometer:           30.118 inHg at 03:25:40 AM<br/>
+	         Min Barometer:           30.112 inHg at 04:25:57 AM<br/>
 	         Max Barometer:           30.133 inHg at 02:22:22 AM<br/>
              Max Wind :               0 mph from    N/A at 12:00:04 AM<br/>
              Rain today:              0.00 in<br/>
@@ -75,10 +75,10 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 09/23/2021 03:45:00 AM</title>
+         <title>Monthly Weather Summary as of 09/23/2021 04:45:00 AM</title>
          <link>/month.html</link>
          <description>
-	        Min outside temperature: 54.0&#176;F at 09/23/2021 03:30:48 AM;
+	        Min outside temperature: 52.5&#176;F at 09/23/2021 04:44:57 AM;
          	Max outside temperature: 100.8&#176;F at 09/20/2021 03:35:53 PM;
 	        Min inside temperature:  70.7&#176;F at 09/07/2021 09:25:59 PM;
 	        Max inside temperature:  73.6&#176;F at 09/02/2021 01:49:33 PM;
@@ -87,12 +87,12 @@
             Max wind :               9 mph from    N/A at 09/22/2021 01:25:36 PM;
             Rain total for month:    1.72 in
          </description>
-         <pubDate>Thu, 23 Sep 2021 03:45:00 CDT</pubDate>
+         <pubDate>Thu, 23 Sep 2021 04:45:00 CDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   September 2021<br/>
 	         Max Outside Temperature: 100.8&#176;F at 09/20/2021 03:35:53 PM<br/>
-	         Min Outside Temperature: 54.0&#176;F at 09/23/2021 03:30:48 AM<br/>
+	         Min Outside Temperature: 52.5&#176;F at 09/23/2021 04:44:57 AM<br/>
 	         Max Inside Temperature:  73.6&#176;F at 09/02/2021 01:49:33 PM<br/>
 	         Min Inside Temperature:  70.7&#176;F at 09/07/2021 09:25:59 PM<br/>
 	         Min Barometer:           29.702 inHg at 09/20/2021 05:35:00 PM<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 09/23/2021 03:45:00 AM</title>
+         <title>Yearly Weather Summary as of 09/23/2021 04:45:00 AM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: -32.1&#176;F at 02/11/2021 08:36:48 AM;
@@ -116,7 +116,7 @@
             Max wind :               29 mph from    N/A at 01/15/2021 02:30:01 PM;
             Rain total for year:     996.11 in
          </description>
-         <pubDate>Thu, 23 Sep 2021 03:45:00 CDT</pubDate>
+         <pubDate>Thu, 23 Sep 2021 04:45:00 CDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2021<br/>
