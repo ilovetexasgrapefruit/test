@@ -7,67 +7,67 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Wed, 13 Oct 2021 05:45:00 CDT</pubDate>
+      <pubDate>Wed, 13 Oct 2021 06:45:00 CDT</pubDate>
 
-      <lastBuildDate>Wed, 13 Oct 2021 05:45:00 CDT</lastBuildDate>
+      <lastBuildDate>Wed, 13 Oct 2021 06:45:00 CDT</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.8.2</generator>
       <ttl>5.000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 10/13/2021 05:45:00 AM</title>
+         <title>Weather Conditions at 10/13/2021 06:45:00 AM</title>
          <link></link>
          <description>
-           Outside temperature: 77.5&#176;F; 
-           Barometer: 29.736 inHg; 
-           Wind: 2 mph from 161&#176;; 
+           Outside temperature: 77.2&#176;F; 
+           Barometer: 29.757 inHg; 
+           Wind: 3 mph from 157&#176;; 
            Rain rate: 0.00 in/hr; 
-           Inside temperature: 72.1&#176;F
+           Inside temperature: 72.0&#176;F
          </description>
-         <pubDate>Wed, 13 Oct 2021 05:45:00 CDT</pubDate>
+         <pubDate>Wed, 13 Oct 2021 06:45:00 CDT</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                10/13/2021 05:45:00 AM<br/>
-             Outside Temperature: 77.5&#176;F<br/>
-             Inside Temperature:  72.1&#176;F<br/>
-             Wind Chill:          77.5&#176;F<br/>
-             Heat Index:          77.5&#176;F<br/>
+             Time:                10/13/2021 06:45:00 AM<br/>
+             Outside Temperature: 77.2&#176;F<br/>
+             Inside Temperature:  72.0&#176;F<br/>
+             Wind Chill:          77.2&#176;F<br/>
+             Heat Index:          77.2&#176;F<br/>
              Dewpoint:            76.9&#176;F<br/>
-             Humidity:            98%<br/>
-             Barometer:           29.736 inHg<br/>
-             Wind:                2 mph from 161&#176;<br/>
+             Humidity:            99%<br/>
+             Barometer:           29.757 inHg<br/>
+             Wind:                3 mph from 157&#176;<br/>
              Rain Rate:           0.00 in/hr<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 10/13/2021 05:45:00 AM</title>
+         <title>Daily Weather Summary as of 10/13/2021 06:45:00 AM</title>
          <link></link>
          <description>
-	        Min outside temperature: 77.4&#176;F at 05:43:53 AM;
+	        Min outside temperature: 77.0&#176;F at 05:59:51 AM;
          	Max outside temperature: 79.0&#176;F at 12:00:02 AM;
 	        Min inside temperature:  71.4&#176;F at 12:38:34 AM;
 	        Max inside temperature:  72.7&#176;F at 03:50:31 AM;
 	        Min barometer:           29.711 inHg at 12:45:00 AM;
-	        Max barometer:           29.739 inHg at 04:35:00 AM;
+	        Max barometer:           29.757 inHg at 06:27:17 AM;
             Max wind :               17 mph from    N/A at 03:18:16 AM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Wed, 13 Oct 2021 05:45:00 CDT</pubDate>
+         <pubDate>Wed, 13 Oct 2021 06:45:00 CDT</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
              Day:                     13 Oct 2021<br/>
-	         Min Outside Temperature: 77.4&#176;F at 05:43:53 AM<br/>
+	         Min Outside Temperature: 77.0&#176;F at 05:59:51 AM<br/>
 	         Max Outside Temperature: 79.0&#176;F at 12:00:02 AM<br/>
 	         Min Inside Temperature:  71.4&#176;F at 12:38:34 AM<br/>
 	         Max Inside Temperature:  72.7&#176;F at 03:50:31 AM<br/>
 	         Min Barometer:           29.711 inHg at 12:45:00 AM<br/>
-	         Max Barometer:           29.739 inHg at 04:35:00 AM<br/>
+	         Max Barometer:           29.757 inHg at 06:27:17 AM<br/>
              Max Wind :               17 mph from    N/A at 03:18:16 AM<br/>
              Rain today:              0.00 in<br/>
         </p>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 10/13/2021 05:45:00 AM</title>
+         <title>Monthly Weather Summary as of 10/13/2021 06:45:00 AM</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 54.3&#176;F at 10/06/2021 07:00:54 AM;
@@ -87,7 +87,7 @@
             Max wind :               19 mph from    N/A at 10/10/2021 09:01:13 PM;
             Rain total for month:    5.85 in
          </description>
-         <pubDate>Wed, 13 Oct 2021 05:45:00 CDT</pubDate>
+         <pubDate>Wed, 13 Oct 2021 06:45:00 CDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   October 2021<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 10/13/2021 05:45:00 AM</title>
+         <title>Yearly Weather Summary as of 10/13/2021 06:45:00 AM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: -32.1&#176;F at 02/11/2021 08:36:48 AM;
@@ -116,7 +116,7 @@
             Max wind :               29 mph from    N/A at 01/15/2021 02:30:01 PM;
             Rain total for year:     1001.96 in
          </description>
-         <pubDate>Wed, 13 Oct 2021 05:45:00 CDT</pubDate>
+         <pubDate>Wed, 13 Oct 2021 06:45:00 CDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2021<br/>
