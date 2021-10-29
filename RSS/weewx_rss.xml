@@ -7,44 +7,44 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Fri, 29 Oct 2021 08:45:00 CDT</pubDate>
+      <pubDate>Fri, 29 Oct 2021 09:45:00 CDT</pubDate>
 
-      <lastBuildDate>Fri, 29 Oct 2021 08:45:00 CDT</lastBuildDate>
+      <lastBuildDate>Fri, 29 Oct 2021 09:45:00 CDT</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.8.2</generator>
       <ttl>5.000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 10/29/2021 08:45:00 AM</title>
+         <title>Weather Conditions at 10/29/2021 09:45:00 AM</title>
          <link></link>
          <description>
-           Outside temperature: 56.5&#176;F; 
-           Barometer: 29.906 inHg; 
-           Wind: 0 mph from    N/A; 
+           Outside temperature: 59.4&#176;F; 
+           Barometer: 29.918 inHg; 
+           Wind: 0 mph from 292&#176;; 
            Rain rate: 0.00 in/hr; 
-           Inside temperature: 70.7&#176;F
+           Inside temperature: 70.9&#176;F
          </description>
-         <pubDate>Fri, 29 Oct 2021 08:45:00 CDT</pubDate>
+         <pubDate>Fri, 29 Oct 2021 09:45:00 CDT</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                10/29/2021 08:45:00 AM<br/>
-             Outside Temperature: 56.5&#176;F<br/>
-             Inside Temperature:  70.7&#176;F<br/>
-             Wind Chill:          56.5&#176;F<br/>
-             Heat Index:          56.5&#176;F<br/>
-             Dewpoint:            34.9&#176;F<br/>
-             Humidity:            44%<br/>
-             Barometer:           29.906 inHg<br/>
-             Wind:                0 mph from    N/A<br/>
+             Time:                10/29/2021 09:45:00 AM<br/>
+             Outside Temperature: 59.4&#176;F<br/>
+             Inside Temperature:  70.9&#176;F<br/>
+             Wind Chill:          59.4&#176;F<br/>
+             Heat Index:          59.4&#176;F<br/>
+             Dewpoint:            35.4&#176;F<br/>
+             Humidity:            41%<br/>
+             Barometer:           29.918 inHg<br/>
+             Wind:                0 mph from 292&#176;<br/>
              Rain Rate:           0.00 in/hr<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 10/29/2021 08:45:00 AM</title>
+         <title>Daily Weather Summary as of 10/29/2021 09:45:00 AM</title>
          <link></link>
          <description>
 	        Min outside temperature: 54.9&#176;F at 07:55:00 AM;
@@ -52,11 +52,11 @@
 	        Min inside temperature:  70.5&#176;F at 07:14:17 AM;
 	        Max inside temperature:  72.3&#176;F at 12:00:48 AM;
 	        Min barometer:           29.840 inHg at 12:15:00 AM;
-	        Max barometer:           29.906 inHg at 08:45:00 AM;
+	        Max barometer:           29.919 inHg at 09:28:03 AM;
             Max wind :               10 mph from 292&#176; at 07:57:14 AM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Fri, 29 Oct 2021 08:45:00 CDT</pubDate>
+         <pubDate>Fri, 29 Oct 2021 09:45:00 CDT</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
@@ -67,7 +67,7 @@
 	         Min Inside Temperature:  70.5&#176;F at 07:14:17 AM<br/>
 	         Max Inside Temperature:  72.3&#176;F at 12:00:48 AM<br/>
 	         Min Barometer:           29.840 inHg at 12:15:00 AM<br/>
-	         Max Barometer:           29.906 inHg at 08:45:00 AM<br/>
+	         Max Barometer:           29.919 inHg at 09:28:03 AM<br/>
              Max Wind :               10 mph from 292&#176; at 07:57:14 AM<br/>
              Rain today:              0.00 in<br/>
         </p>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 10/29/2021 08:45:00 AM</title>
+         <title>Monthly Weather Summary as of 10/29/2021 09:45:00 AM</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 42.4&#176;F at 10/17/2021 07:02:07 AM;
@@ -87,7 +87,7 @@
             Max wind :               25 mph from    N/A at 10/28/2021 01:31:10 PM;
             Rain total for month:    15.30 in
          </description>
-         <pubDate>Fri, 29 Oct 2021 08:45:00 CDT</pubDate>
+         <pubDate>Fri, 29 Oct 2021 09:45:00 CDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   October 2021<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 10/29/2021 08:45:00 AM</title>
+         <title>Yearly Weather Summary as of 10/29/2021 09:45:00 AM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: -32.1&#176;F at 02/11/2021 08:36:48 AM;
@@ -116,7 +116,7 @@
             Max wind :               29 mph from    N/A at 01/15/2021 02:30:01 PM;
             Rain total for year:     1011.41 in
          </description>
-         <pubDate>Fri, 29 Oct 2021 08:45:00 CDT</pubDate>
+         <pubDate>Fri, 29 Oct 2021 09:45:00 CDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2021<br/>
