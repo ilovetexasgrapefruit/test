@@ -7,36 +7,36 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Mon, 08 Nov 2021 21:45:00 CST</pubDate>
+      <pubDate>Mon, 08 Nov 2021 22:45:00 CST</pubDate>
 
-      <lastBuildDate>Mon, 08 Nov 2021 21:45:00 CST</lastBuildDate>
+      <lastBuildDate>Mon, 08 Nov 2021 22:45:00 CST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.8.2</generator>
       <ttl>5.000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 11/08/2021 09:45:00 PM</title>
+         <title>Weather Conditions at 11/08/2021 10:45:00 PM</title>
          <link></link>
          <description>
-           Outside temperature: 60.4&#176;F; 
-           Barometer: 30.142 inHg; 
+           Outside temperature: 59.9&#176;F; 
+           Barometer: 30.152 inHg; 
            Wind: 0 mph from    N/A; 
            Rain rate: 0.00 in/hr; 
-           Inside temperature: 72.1&#176;F
+           Inside temperature: 72.0&#176;F
          </description>
-         <pubDate>Mon, 08 Nov 2021 21:45:00 CST</pubDate>
+         <pubDate>Mon, 08 Nov 2021 22:45:00 CST</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                11/08/2021 09:45:00 PM<br/>
-             Outside Temperature: 60.4&#176;F<br/>
-             Inside Temperature:  72.1&#176;F<br/>
-             Wind Chill:          60.4&#176;F<br/>
-             Heat Index:          60.4&#176;F<br/>
-             Dewpoint:            58.1&#176;F<br/>
+             Time:                11/08/2021 10:45:00 PM<br/>
+             Outside Temperature: 59.9&#176;F<br/>
+             Inside Temperature:  72.0&#176;F<br/>
+             Wind Chill:          59.9&#176;F<br/>
+             Heat Index:          59.9&#176;F<br/>
+             Dewpoint:            57.6&#176;F<br/>
              Humidity:            92%<br/>
-             Barometer:           30.142 inHg<br/>
+             Barometer:           30.152 inHg<br/>
              Wind:                0 mph from    N/A<br/>
              Rain Rate:           0.00 in/hr<br/>
         </p>
@@ -44,7 +44,7 @@
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 11/08/2021 09:45:00 PM</title>
+         <title>Daily Weather Summary as of 11/08/2021 10:45:00 PM</title>
          <link></link>
          <description>
 	        Min outside temperature: 48.4&#176;F at 06:36:15 AM;
@@ -56,7 +56,7 @@
             Max wind :               8 mph from    N/A at 02:08:49 PM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Mon, 08 Nov 2021 21:45:00 CST</pubDate>
+         <pubDate>Mon, 08 Nov 2021 22:45:00 CST</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 11/08/2021 09:45:00 PM</title>
+         <title>Monthly Weather Summary as of 11/08/2021 10:45:00 PM</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 34.7&#176;F at 11/05/2021 06:30:00 AM;
@@ -87,7 +87,7 @@
             Max wind :               9 mph from 90&#176; at 11/03/2021 06:31:22 AM;
             Rain total for month:    2.40 in
          </description>
-         <pubDate>Mon, 08 Nov 2021 21:45:00 CST</pubDate>
+         <pubDate>Mon, 08 Nov 2021 22:45:00 CST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   November 2021<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 11/08/2021 09:45:00 PM</title>
+         <title>Yearly Weather Summary as of 11/08/2021 10:45:00 PM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: -32.1&#176;F at 02/11/2021 08:36:48 AM;
@@ -116,7 +116,7 @@
             Max wind :               29 mph from    N/A at 01/15/2021 02:30:01 PM;
             Rain total for year:     1013.81 in
          </description>
-         <pubDate>Mon, 08 Nov 2021 21:45:00 CST</pubDate>
+         <pubDate>Mon, 08 Nov 2021 22:45:00 CST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2021<br/>
