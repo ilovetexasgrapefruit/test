@@ -7,36 +7,36 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Thu, 11 Nov 2021 23:45:00 CST</pubDate>
+      <pubDate>Fri, 12 Nov 2021 00:45:00 CST</pubDate>
 
-      <lastBuildDate>Thu, 11 Nov 2021 23:45:00 CST</lastBuildDate>
+      <lastBuildDate>Fri, 12 Nov 2021 00:45:00 CST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.8.2</generator>
       <ttl>5.000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 11/11/2021 11:45:00 PM</title>
+         <title>Weather Conditions at 11/12/2021 12:45:00 AM</title>
          <link></link>
          <description>
-           Outside temperature: 45.0&#176;F; 
-           Barometer: 30.097 inHg; 
+           Outside temperature: 49.3&#176;F; 
+           Barometer: 30.069 inHg; 
            Wind: 0 mph from    N/A; 
            Rain rate: 0.00 in/hr; 
-           Inside temperature: 69.6&#176;F
+           Inside temperature: 69.3&#176;F
          </description>
-         <pubDate>Thu, 11 Nov 2021 23:45:00 CST</pubDate>
+         <pubDate>Fri, 12 Nov 2021 00:45:00 CST</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                11/11/2021 11:45:00 PM<br/>
-             Outside Temperature: 45.0&#176;F<br/>
-             Inside Temperature:  69.6&#176;F<br/>
-             Wind Chill:          45.0&#176;F<br/>
-             Heat Index:          45.0&#176;F<br/>
-             Dewpoint:            44.8&#176;F<br/>
-             Humidity:            99%<br/>
-             Barometer:           30.097 inHg<br/>
+             Time:                11/12/2021 12:45:00 AM<br/>
+             Outside Temperature: 49.3&#176;F<br/>
+             Inside Temperature:  69.3&#176;F<br/>
+             Wind Chill:          49.3&#176;F<br/>
+             Heat Index:          49.3&#176;F<br/>
+             Dewpoint:            46.5&#176;F<br/>
+             Humidity:            90%<br/>
+             Barometer:           30.069 inHg<br/>
              Wind:                0 mph from    N/A<br/>
              Rain Rate:           0.00 in/hr<br/>
         </p>
@@ -44,38 +44,38 @@
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 11/11/2021 11:45:00 PM</title>
+         <title>Daily Weather Summary as of 11/12/2021 12:45:00 AM</title>
          <link></link>
          <description>
-	        Min outside temperature: 42.6&#176;F at 11:18:24 PM;
-         	Max outside temperature: 69.3&#176;F at 01:28:55 PM;
-	        Min inside temperature:  69.6&#176;F at 11:38:25 PM;
-	        Max inside temperature:  72.9&#176;F at 12:00:18 AM;
-	        Min barometer:           29.808 inHg at 12:00:18 AM;
-	        Max barometer:           30.137 inHg at 09:48:47 PM;
-            Max wind :               9 mph from    N/A at 01:15:44 AM;
+	        Min outside temperature: 49.1&#176;F at 12:39:15 AM;
+         	Max outside temperature: 50.0&#176;F at 12:03:57 AM;
+	        Min inside temperature:  69.3&#176;F at 12:38:45 AM;
+	        Max inside temperature:  69.6&#176;F at 12:02:33 AM;
+	        Min barometer:           30.069 inHg at 12:45:00 AM;
+	        Max barometer:           30.083 inHg at 12:01:33 AM;
+            Max wind :               0 mph from    N/A at 12:00:02 AM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Thu, 11 Nov 2021 23:45:00 CST</pubDate>
+         <pubDate>Fri, 12 Nov 2021 00:45:00 CST</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Day:                     11 Nov 2021<br/>
-	         Min Outside Temperature: 42.6&#176;F at 11:18:24 PM<br/>
-	         Max Outside Temperature: 69.3&#176;F at 01:28:55 PM<br/>
-	         Min Inside Temperature:  69.6&#176;F at 11:38:25 PM<br/>
-	         Max Inside Temperature:  72.9&#176;F at 12:00:18 AM<br/>
-	         Min Barometer:           29.808 inHg at 12:00:18 AM<br/>
-	         Max Barometer:           30.137 inHg at 09:48:47 PM<br/>
-             Max Wind :               9 mph from    N/A at 01:15:44 AM<br/>
+             Day:                     12 Nov 2021<br/>
+	         Min Outside Temperature: 49.1&#176;F at 12:39:15 AM<br/>
+	         Max Outside Temperature: 50.0&#176;F at 12:03:57 AM<br/>
+	         Min Inside Temperature:  69.3&#176;F at 12:38:45 AM<br/>
+	         Max Inside Temperature:  69.6&#176;F at 12:02:33 AM<br/>
+	         Min Barometer:           30.069 inHg at 12:45:00 AM<br/>
+	         Max Barometer:           30.083 inHg at 12:01:33 AM<br/>
+             Max Wind :               0 mph from    N/A at 12:00:02 AM<br/>
              Rain today:              0.00 in<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 11/11/2021 11:45:00 PM</title>
+         <title>Monthly Weather Summary as of 11/12/2021 12:45:00 AM</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 34.7&#176;F at 11/05/2021 06:30:00 AM;
@@ -87,7 +87,7 @@
             Max wind :               24 mph from    N/A at 11/10/2021 09:24:01 PM;
             Rain total for month:    3.57 in
          </description>
-         <pubDate>Thu, 11 Nov 2021 23:45:00 CST</pubDate>
+         <pubDate>Fri, 12 Nov 2021 00:45:00 CST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   November 2021<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 11/11/2021 11:45:00 PM</title>
+         <title>Yearly Weather Summary as of 11/12/2021 12:45:00 AM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: -32.1&#176;F at 02/11/2021 08:36:48 AM;
@@ -116,7 +116,7 @@
             Max wind :               29 mph from    N/A at 01/15/2021 02:30:01 PM;
             Rain total for year:     1014.98 in
          </description>
-         <pubDate>Thu, 11 Nov 2021 23:45:00 CST</pubDate>
+         <pubDate>Fri, 12 Nov 2021 00:45:00 CST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2021<br/>
