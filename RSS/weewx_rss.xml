@@ -7,36 +7,36 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Fri, 19 Nov 2021 16:45:00 CST</pubDate>
+      <pubDate>Fri, 19 Nov 2021 17:45:00 CST</pubDate>
 
-      <lastBuildDate>Fri, 19 Nov 2021 16:45:00 CST</lastBuildDate>
+      <lastBuildDate>Fri, 19 Nov 2021 17:45:00 CST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.8.2</generator>
       <ttl>5.000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 11/19/2021 04:45:00 PM</title>
+         <title>Weather Conditions at 11/19/2021 05:45:00 PM</title>
          <link></link>
          <description>
-           Outside temperature: 60.0&#176;F; 
-           Barometer: 30.232 inHg; 
+           Outside temperature: 56.5&#176;F; 
+           Barometer: 30.215 inHg; 
            Wind: 0 mph from    N/A; 
            Rain rate: 0.00 in/hr; 
            Inside temperature: 67.3&#176;F
          </description>
-         <pubDate>Fri, 19 Nov 2021 16:45:00 CST</pubDate>
+         <pubDate>Fri, 19 Nov 2021 17:45:00 CST</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                11/19/2021 04:45:00 PM<br/>
-             Outside Temperature: 60.0&#176;F<br/>
+             Time:                11/19/2021 05:45:00 PM<br/>
+             Outside Temperature: 56.5&#176;F<br/>
              Inside Temperature:  67.3&#176;F<br/>
-             Wind Chill:          60.0&#176;F<br/>
-             Heat Index:          60.0&#176;F<br/>
-             Dewpoint:            26.0&#176;F<br/>
-             Humidity:            27%<br/>
-             Barometer:           30.232 inHg<br/>
+             Wind Chill:          56.5&#176;F<br/>
+             Heat Index:          56.5&#176;F<br/>
+             Dewpoint:            28.4&#176;F<br/>
+             Humidity:            34%<br/>
+             Barometer:           30.215 inHg<br/>
              Wind:                0 mph from    N/A<br/>
              Rain Rate:           0.00 in/hr<br/>
         </p>
@@ -44,19 +44,19 @@
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 11/19/2021 04:45:00 PM</title>
+         <title>Daily Weather Summary as of 11/19/2021 05:45:00 PM</title>
          <link></link>
          <description>
 	        Min outside temperature: 32.2&#176;F at 07:15:00 AM;
          	Max outside temperature: 62.6&#176;F at 02:11:52 PM;
 	        Min inside temperature:  64.4&#176;F at 08:03:08 AM;
 	        Max inside temperature:  68.0&#176;F at 12:00:25 AM;
-	        Min barometer:           30.231 inHg at 04:25:00 PM;
+	        Min barometer:           30.215 inHg at 05:45:00 PM;
 	        Max barometer:           30.471 inHg at 07:55:00 AM;
             Max wind :               5 mph from    N/A at 11:16:50 AM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Fri, 19 Nov 2021 16:45:00 CST</pubDate>
+         <pubDate>Fri, 19 Nov 2021 17:45:00 CST</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
@@ -66,7 +66,7 @@
 	         Max Outside Temperature: 62.6&#176;F at 02:11:52 PM<br/>
 	         Min Inside Temperature:  64.4&#176;F at 08:03:08 AM<br/>
 	         Max Inside Temperature:  68.0&#176;F at 12:00:25 AM<br/>
-	         Min Barometer:           30.231 inHg at 04:25:00 PM<br/>
+	         Min Barometer:           30.215 inHg at 05:45:00 PM<br/>
 	         Max Barometer:           30.471 inHg at 07:55:00 AM<br/>
              Max Wind :               5 mph from    N/A at 11:16:50 AM<br/>
              Rain today:              0.00 in<br/>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 11/19/2021 04:45:00 PM</title>
+         <title>Monthly Weather Summary as of 11/19/2021 05:45:00 PM</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 32.2&#176;F at 11/19/2021 07:15:00 AM;
@@ -87,7 +87,7 @@
             Max wind :               24 mph from    N/A at 11/10/2021 09:24:01 PM;
             Rain total for month:    25.60 in
          </description>
-         <pubDate>Fri, 19 Nov 2021 16:45:00 CST</pubDate>
+         <pubDate>Fri, 19 Nov 2021 17:45:00 CST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   November 2021<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 11/19/2021 04:45:00 PM</title>
+         <title>Yearly Weather Summary as of 11/19/2021 05:45:00 PM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: -32.1&#176;F at 02/11/2021 08:36:48 AM;
@@ -116,7 +116,7 @@
             Max wind :               29 mph from    N/A at 01/15/2021 02:30:01 PM;
             Rain total for year:     1037.01 in
          </description>
-         <pubDate>Fri, 19 Nov 2021 16:45:00 CST</pubDate>
+         <pubDate>Fri, 19 Nov 2021 17:45:00 CST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2021<br/>
