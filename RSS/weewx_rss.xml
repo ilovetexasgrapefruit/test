@@ -7,36 +7,36 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Mon, 06 Dec 2021 16:45:00 CST</pubDate>
+      <pubDate>Mon, 06 Dec 2021 17:45:00 CST</pubDate>
 
-      <lastBuildDate>Mon, 06 Dec 2021 16:45:00 CST</lastBuildDate>
+      <lastBuildDate>Mon, 06 Dec 2021 17:45:00 CST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.8.2</generator>
       <ttl>5.000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 12/06/2021 04:45:00 PM</title>
+         <title>Weather Conditions at 12/06/2021 05:45:00 PM</title>
          <link></link>
          <description>
-           Outside temperature: 53.3&#176;F; 
-           Barometer: 30.209 inHg; 
+           Outside temperature: 49.1&#176;F; 
+           Barometer: 30.216 inHg; 
            Wind: 0 mph from    N/A; 
            Rain rate: 0.00 in/hr; 
-           Inside temperature: 68.7&#176;F
+           Inside temperature: 68.5&#176;F
          </description>
-         <pubDate>Mon, 06 Dec 2021 16:45:00 CST</pubDate>
+         <pubDate>Mon, 06 Dec 2021 17:45:00 CST</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                12/06/2021 04:45:00 PM<br/>
-             Outside Temperature: 53.3&#176;F<br/>
-             Inside Temperature:  68.7&#176;F<br/>
-             Wind Chill:          53.3&#176;F<br/>
-             Heat Index:          53.3&#176;F<br/>
-             Dewpoint:            20.7&#176;F<br/>
-             Humidity:            28%<br/>
-             Barometer:           30.209 inHg<br/>
+             Time:                12/06/2021 05:45:00 PM<br/>
+             Outside Temperature: 49.1&#176;F<br/>
+             Inside Temperature:  68.5&#176;F<br/>
+             Wind Chill:          49.1&#176;F<br/>
+             Heat Index:          49.1&#176;F<br/>
+             Dewpoint:            22.0&#176;F<br/>
+             Humidity:            34%<br/>
+             Barometer:           30.216 inHg<br/>
              Wind:                0 mph from    N/A<br/>
              Rain Rate:           0.00 in/hr<br/>
         </p>
@@ -44,30 +44,30 @@
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 12/06/2021 04:45:00 PM</title>
+         <title>Daily Weather Summary as of 12/06/2021 05:45:00 PM</title>
          <link></link>
          <description>
-	        Min outside temperature: 49.8&#176;F at 08:49:04 AM;
+	        Min outside temperature: 49.1&#176;F at 05:40:37 PM;
          	Max outside temperature: 68.2&#176;F at 12:15:00 AM;
-	        Min inside temperature:  68.7&#176;F at 04:38:47 PM;
+	        Min inside temperature:  68.5&#176;F at 05:27:03 PM;
 	        Max inside temperature:  72.9&#176;F at 12:00:05 AM;
 	        Min barometer:           29.795 inHg at 12:09:08 AM;
-	        Max barometer:           30.214 inHg at 10:51:51 AM;
+	        Max barometer:           30.216 inHg at 05:45:00 PM;
             Max wind :               21 mph from    N/A at 08:19:12 AM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Mon, 06 Dec 2021 16:45:00 CST</pubDate>
+         <pubDate>Mon, 06 Dec 2021 17:45:00 CST</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
              Day:                     06 Dec 2021<br/>
-	         Min Outside Temperature: 49.8&#176;F at 08:49:04 AM<br/>
+	         Min Outside Temperature: 49.1&#176;F at 05:40:37 PM<br/>
 	         Max Outside Temperature: 68.2&#176;F at 12:15:00 AM<br/>
-	         Min Inside Temperature:  68.7&#176;F at 04:38:47 PM<br/>
+	         Min Inside Temperature:  68.5&#176;F at 05:27:03 PM<br/>
 	         Max Inside Temperature:  72.9&#176;F at 12:00:05 AM<br/>
 	         Min Barometer:           29.795 inHg at 12:09:08 AM<br/>
-	         Max Barometer:           30.214 inHg at 10:51:51 AM<br/>
+	         Max Barometer:           30.216 inHg at 05:45:00 PM<br/>
              Max Wind :               21 mph from    N/A at 08:19:12 AM<br/>
              Rain today:              0.00 in<br/>
         </p>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 12/06/2021 04:45:00 PM</title>
+         <title>Monthly Weather Summary as of 12/06/2021 05:45:00 PM</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 40.8&#176;F at 12/02/2021 06:59:23 AM;
@@ -83,11 +83,11 @@
 	        Min inside temperature:  67.3&#176;F at 12/02/2021 07:26:39 AM;
 	        Max inside temperature:  73.8&#176;F at 12/05/2021 03:27:11 PM;
 	        Min barometer:           29.752 inHg at 12/05/2021 03:15:00 PM;
-	        Max barometer:           30.214 inHg at 12/06/2021 10:51:51 AM;
+	        Max barometer:           30.216 inHg at 12/06/2021 05:45:00 PM;
             Max wind :               21 mph from    N/A at 12/06/2021 08:19:12 AM;
             Rain total for month:    0.89 in
          </description>
-         <pubDate>Mon, 06 Dec 2021 16:45:00 CST</pubDate>
+         <pubDate>Mon, 06 Dec 2021 17:45:00 CST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   December 2021<br/>
@@ -96,7 +96,7 @@
 	         Max Inside Temperature:  73.8&#176;F at 12/05/2021 03:27:11 PM<br/>
 	         Min Inside Temperature:  67.3&#176;F at 12/02/2021 07:26:39 AM<br/>
 	         Min Barometer:           29.752 inHg at 12/05/2021 03:15:00 PM<br/>
-	         Max Barometer:           30.214 inHg at 12/06/2021 10:51:51 AM<br/>
+	         Max Barometer:           30.216 inHg at 12/06/2021 05:45:00 PM<br/>
              Max Wind :               21 mph from    N/A at 12/06/2021 08:19:12 AM<br/>
              Rain total for month:    0.89 in<br/>
         </p>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 12/06/2021 04:45:00 PM</title>
+         <title>Yearly Weather Summary as of 12/06/2021 05:45:00 PM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: -32.1&#176;F at 02/11/2021 08:36:48 AM;
@@ -116,7 +116,7 @@
             Max wind :               29 mph from    N/A at 01/15/2021 02:30:01 PM;
             Rain total for year:     1119.38 in
          </description>
-         <pubDate>Mon, 06 Dec 2021 16:45:00 CST</pubDate>
+         <pubDate>Mon, 06 Dec 2021 17:45:00 CST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2021<br/>
