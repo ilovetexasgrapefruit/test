@@ -7,66 +7,66 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Fri, 24 Dec 2021 13:45:00 CST</pubDate>
+      <pubDate>Fri, 24 Dec 2021 14:45:00 CST</pubDate>
 
-      <lastBuildDate>Fri, 24 Dec 2021 13:45:00 CST</lastBuildDate>
+      <lastBuildDate>Fri, 24 Dec 2021 14:45:00 CST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.8.2</generator>
       <ttl>5.000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 12/24/2021 01:45:00 PM</title>
+         <title>Weather Conditions at 12/24/2021 02:45:00 PM</title>
          <link></link>
          <description>
-           Outside temperature:    N/A; 
-           Barometer:    N/A; 
-           Wind:    N/A from    N/A; 
+           Outside temperature: 75.8&#176;F; 
+           Barometer: 29.699 inHg; 
+           Wind: 3 mph from 169&#176;; 
            Rain rate: 0.00 in/hr; 
-           Inside temperature: 73.2&#176;F
+           Inside temperature: 73.6&#176;F
          </description>
-         <pubDate>Fri, 24 Dec 2021 13:45:00 CST</pubDate>
+         <pubDate>Fri, 24 Dec 2021 14:45:00 CST</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                12/24/2021 01:45:00 PM<br/>
-             Outside Temperature:    N/A<br/>
-             Inside Temperature:  73.2&#176;F<br/>
-             Wind Chill:             N/A<br/>
-             Heat Index:             N/A<br/>
-             Dewpoint:               N/A<br/>
-             Humidity:               N/A<br/>
-             Barometer:              N/A<br/>
-             Wind:                   N/A from    N/A<br/>
+             Time:                12/24/2021 02:45:00 PM<br/>
+             Outside Temperature: 75.8&#176;F<br/>
+             Inside Temperature:  73.6&#176;F<br/>
+             Wind Chill:          75.8&#176;F<br/>
+             Heat Index:          75.8&#176;F<br/>
+             Dewpoint:            68.8&#176;F<br/>
+             Humidity:            79%<br/>
+             Barometer:           29.699 inHg<br/>
+             Wind:                3 mph from 169&#176;<br/>
              Rain Rate:           0.00 in/hr<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 12/24/2021 01:45:00 PM</title>
+         <title>Daily Weather Summary as of 12/24/2021 02:45:00 PM</title>
          <link></link>
          <description>
 	        Min outside temperature: 62.2&#176;F at 03:15:00 AM;
-         	Max outside temperature: 74.8&#176;F at 12:48:57 PM;
+         	Max outside temperature: 75.9&#176;F at 02:43:18 PM;
 	        Min inside temperature:  70.7&#176;F at 05:15:28 AM;
-	        Max inside temperature:  73.2&#176;F at 01:15:12 PM;
-	        Min barometer:           29.738 inHg at 01:20:00 PM;
+	        Max inside temperature:  73.6&#176;F at 02:15:32 PM;
+	        Min barometer:           29.699 inHg at 02:45:00 PM;
 	        Max barometer:           29.833 inHg at 02:00:00 AM;
             Max wind :               15 mph from 180&#176; at 11:12:59 AM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Fri, 24 Dec 2021 13:45:00 CST</pubDate>
+         <pubDate>Fri, 24 Dec 2021 14:45:00 CST</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
              Day:                     24 Dec 2021<br/>
 	         Min Outside Temperature: 62.2&#176;F at 03:15:00 AM<br/>
-	         Max Outside Temperature: 74.8&#176;F at 12:48:57 PM<br/>
+	         Max Outside Temperature: 75.9&#176;F at 02:43:18 PM<br/>
 	         Min Inside Temperature:  70.7&#176;F at 05:15:28 AM<br/>
-	         Max Inside Temperature:  73.2&#176;F at 01:15:12 PM<br/>
-	         Min Barometer:           29.738 inHg at 01:20:00 PM<br/>
+	         Max Inside Temperature:  73.6&#176;F at 02:15:32 PM<br/>
+	         Min Barometer:           29.699 inHg at 02:45:00 PM<br/>
 	         Max Barometer:           29.833 inHg at 02:00:00 AM<br/>
              Max Wind :               15 mph from 180&#176; at 11:12:59 AM<br/>
              Rain today:              0.00 in<br/>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 12/24/2021 01:45:00 PM</title>
+         <title>Monthly Weather Summary as of 12/24/2021 02:45:00 PM</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 25.2&#176;F at 12/12/2021 07:09:18 AM;
@@ -87,7 +87,7 @@
             Max wind :               21 mph from    N/A at 12/06/2021 08:19:12 AM;
             Rain total for month:    134.66 in
          </description>
-         <pubDate>Fri, 24 Dec 2021 13:45:00 CST</pubDate>
+         <pubDate>Fri, 24 Dec 2021 14:45:00 CST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   December 2021<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 12/24/2021 01:45:00 PM</title>
+         <title>Yearly Weather Summary as of 12/24/2021 02:45:00 PM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: -32.1&#176;F at 02/11/2021 08:36:48 AM;
@@ -116,7 +116,7 @@
             Max wind :               29 mph from    N/A at 01/15/2021 02:30:01 PM;
             Rain total for year:     1253.15 in
          </description>
-         <pubDate>Fri, 24 Dec 2021 13:45:00 CST</pubDate>
+         <pubDate>Fri, 24 Dec 2021 14:45:00 CST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2021<br/>
