@@ -7,15 +7,15 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Mon, 27 Dec 2021 02:45:00 CST</pubDate>
+      <pubDate>Mon, 27 Dec 2021 03:45:00 CST</pubDate>
 
-      <lastBuildDate>Mon, 27 Dec 2021 02:45:00 CST</lastBuildDate>
+      <lastBuildDate>Mon, 27 Dec 2021 03:45:00 CST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.8.2</generator>
       <ttl>5.000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 12/27/2021 02:45:00 AM</title>
+         <title>Weather Conditions at 12/27/2021 03:45:00 AM</title>
          <link></link>
          <description>
            Outside temperature:    N/A; 
@@ -24,12 +24,12 @@
            Rain rate: 0.00 in/hr; 
            Inside temperature: 72.7&#176;F
          </description>
-         <pubDate>Mon, 27 Dec 2021 02:45:00 CST</pubDate>
+         <pubDate>Mon, 27 Dec 2021 03:45:00 CST</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                12/27/2021 02:45:00 AM<br/>
+             Time:                12/27/2021 03:45:00 AM<br/>
              Outside Temperature:    N/A<br/>
              Inside Temperature:  72.7&#176;F<br/>
              Wind Chill:             N/A<br/>
@@ -44,19 +44,19 @@
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 12/27/2021 02:45:00 AM</title>
+         <title>Daily Weather Summary as of 12/27/2021 03:45:00 AM</title>
          <link></link>
          <description>
 	        Min outside temperature:    N/A at    N/A;
          	Max outside temperature:    N/A at    N/A;
 	        Min inside temperature:  72.1&#176;F at 12:39:11 AM;
-	        Max inside temperature:  72.7&#176;F at 12:15:03 AM;
+	        Max inside temperature:  72.9&#176;F at 02:51:55 AM;
 	        Min barometer:              N/A at    N/A;
 	        Max barometer:              N/A at    N/A;
             Max wind :                  N/A from    N/A at    N/A;
             Rain today:              0.00 in
          </description>
-         <pubDate>Mon, 27 Dec 2021 02:45:00 CST</pubDate>
+         <pubDate>Mon, 27 Dec 2021 03:45:00 CST</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
@@ -65,7 +65,7 @@
 	         Min Outside Temperature:    N/A at    N/A<br/>
 	         Max Outside Temperature:    N/A at    N/A<br/>
 	         Min Inside Temperature:  72.1&#176;F at 12:39:11 AM<br/>
-	         Max Inside Temperature:  72.7&#176;F at 12:15:03 AM<br/>
+	         Max Inside Temperature:  72.9&#176;F at 02:51:55 AM<br/>
 	         Min Barometer:              N/A at    N/A<br/>
 	         Max Barometer:              N/A at    N/A<br/>
              Max Wind :                  N/A from    N/A at    N/A<br/>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 12/27/2021 02:45:00 AM</title>
+         <title>Monthly Weather Summary as of 12/27/2021 03:45:00 AM</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 25.2&#176;F at 12/12/2021 07:09:18 AM;
@@ -87,7 +87,7 @@
             Max wind :               21 mph from    N/A at 12/06/2021 08:19:12 AM;
             Rain total for month:    134.96 in
          </description>
-         <pubDate>Mon, 27 Dec 2021 02:45:00 CST</pubDate>
+         <pubDate>Mon, 27 Dec 2021 03:45:00 CST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   December 2021<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 12/27/2021 02:45:00 AM</title>
+         <title>Yearly Weather Summary as of 12/27/2021 03:45:00 AM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: -32.1&#176;F at 02/11/2021 08:36:48 AM;
@@ -116,7 +116,7 @@
             Max wind :               29 mph from    N/A at 01/15/2021 02:30:01 PM;
             Rain total for year:     1253.45 in
          </description>
-         <pubDate>Mon, 27 Dec 2021 02:45:00 CST</pubDate>
+         <pubDate>Mon, 27 Dec 2021 03:45:00 CST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2021<br/>
