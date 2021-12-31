@@ -7,36 +7,36 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Thu, 30 Dec 2021 21:45:00 CST</pubDate>
+      <pubDate>Thu, 30 Dec 2021 22:45:00 CST</pubDate>
 
-      <lastBuildDate>Thu, 30 Dec 2021 21:45:00 CST</lastBuildDate>
+      <lastBuildDate>Thu, 30 Dec 2021 22:45:00 CST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.8.2</generator>
       <ttl>5.000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 12/30/2021 09:45:00 PM</title>
+         <title>Weather Conditions at 12/30/2021 10:45:00 PM</title>
          <link></link>
          <description>
-           Outside temperature: 56.1&#176;F; 
-           Barometer: 29.810 inHg; 
+           Outside temperature: 54.2&#176;F; 
+           Barometer: 29.809 inHg; 
            Wind: 0 mph from    N/A; 
            Rain rate: 0.00 in/hr; 
            Inside temperature: 70.2&#176;F
          </description>
-         <pubDate>Thu, 30 Dec 2021 21:45:00 CST</pubDate>
+         <pubDate>Thu, 30 Dec 2021 22:45:00 CST</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                12/30/2021 09:45:00 PM<br/>
-             Outside Temperature: 56.1&#176;F<br/>
+             Time:                12/30/2021 10:45:00 PM<br/>
+             Outside Temperature: 54.2&#176;F<br/>
              Inside Temperature:  70.2&#176;F<br/>
-             Wind Chill:          56.1&#176;F<br/>
-             Heat Index:          56.1&#176;F<br/>
-             Dewpoint:            46.8&#176;F<br/>
-             Humidity:            71%<br/>
-             Barometer:           29.810 inHg<br/>
+             Wind Chill:          54.2&#176;F<br/>
+             Heat Index:          54.2&#176;F<br/>
+             Dewpoint:            44.6&#176;F<br/>
+             Humidity:            70%<br/>
+             Barometer:           29.809 inHg<br/>
              Wind:                0 mph from    N/A<br/>
              Rain Rate:           0.00 in/hr<br/>
         </p>
@@ -44,7 +44,7 @@
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 12/30/2021 09:45:00 PM</title>
+         <title>Daily Weather Summary as of 12/30/2021 10:45:00 PM</title>
          <link></link>
          <description>
 	        Min outside temperature: 43.5&#176;F at 06:11:13 AM;
@@ -56,7 +56,7 @@
             Max wind :               1 mph from 225&#176; at 12:24:25 PM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Thu, 30 Dec 2021 21:45:00 CST</pubDate>
+         <pubDate>Thu, 30 Dec 2021 22:45:00 CST</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 12/30/2021 09:45:00 PM</title>
+         <title>Monthly Weather Summary as of 12/30/2021 10:45:00 PM</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 25.2&#176;F at 12/12/2021 07:09:18 AM;
@@ -87,7 +87,7 @@
             Max wind :               21 mph from    N/A at 12/06/2021 08:19:12 AM;
             Rain total for month:    135.06 in
          </description>
-         <pubDate>Thu, 30 Dec 2021 21:45:00 CST</pubDate>
+         <pubDate>Thu, 30 Dec 2021 22:45:00 CST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   December 2021<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 12/30/2021 09:45:00 PM</title>
+         <title>Yearly Weather Summary as of 12/30/2021 10:45:00 PM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: -32.1&#176;F at 02/11/2021 08:36:48 AM;
@@ -116,7 +116,7 @@
             Max wind :               29 mph from    N/A at 01/15/2021 02:30:01 PM;
             Rain total for year:     1253.55 in
          </description>
-         <pubDate>Thu, 30 Dec 2021 21:45:00 CST</pubDate>
+         <pubDate>Thu, 30 Dec 2021 22:45:00 CST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2021<br/>
