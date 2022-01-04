@@ -7,36 +7,36 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Mon, 03 Jan 2022 18:45:00 CST</pubDate>
+      <pubDate>Mon, 03 Jan 2022 19:45:00 CST</pubDate>
 
-      <lastBuildDate>Mon, 03 Jan 2022 18:45:00 CST</lastBuildDate>
+      <lastBuildDate>Mon, 03 Jan 2022 19:45:00 CST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.8.2</generator>
       <ttl>5.000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 01/03/2022 06:45:00 PM</title>
+         <title>Weather Conditions at 01/03/2022 07:45:00 PM</title>
          <link></link>
          <description>
-           Outside temperature: 45.5&#176;F; 
-           Barometer: 30.322 inHg; 
+           Outside temperature: 44.3&#176;F; 
+           Barometer: 30.323 inHg; 
            Wind: 0 mph from    N/A; 
            Rain rate: 0.00 in/hr; 
            Inside temperature: 67.6&#176;F
          </description>
-         <pubDate>Mon, 03 Jan 2022 18:45:00 CST</pubDate>
+         <pubDate>Mon, 03 Jan 2022 19:45:00 CST</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                01/03/2022 06:45:00 PM<br/>
-             Outside Temperature: 45.5&#176;F<br/>
+             Time:                01/03/2022 07:45:00 PM<br/>
+             Outside Temperature: 44.3&#176;F<br/>
              Inside Temperature:  67.6&#176;F<br/>
-             Wind Chill:          45.5&#176;F<br/>
-             Heat Index:          45.5&#176;F<br/>
-             Dewpoint:            27.2&#176;F<br/>
-             Humidity:            48%<br/>
-             Barometer:           30.322 inHg<br/>
+             Wind Chill:          44.3&#176;F<br/>
+             Heat Index:          44.3&#176;F<br/>
+             Dewpoint:            27.9&#176;F<br/>
+             Humidity:            52%<br/>
+             Barometer:           30.323 inHg<br/>
              Wind:                0 mph from    N/A<br/>
              Rain Rate:           0.00 in/hr<br/>
         </p>
@@ -44,7 +44,7 @@
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 01/03/2022 06:45:00 PM</title>
+         <title>Daily Weather Summary as of 01/03/2022 07:45:00 PM</title>
          <link></link>
          <description>
 	        Min outside temperature: 20.3&#176;F at 04:35:00 AM;
@@ -56,7 +56,7 @@
             Max wind :               1 mph from 180&#176; at 01:00:03 PM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Mon, 03 Jan 2022 18:45:00 CST</pubDate>
+         <pubDate>Mon, 03 Jan 2022 19:45:00 CST</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 01/03/2022 06:45:00 PM</title>
+         <title>Monthly Weather Summary as of 01/03/2022 07:45:00 PM</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 18.3&#176;F at 01/02/2022 07:26:13 AM;
@@ -87,7 +87,7 @@
             Max wind :               20 mph from 315&#176; at 01/01/2022 02:30:44 PM;
             Rain total for month:    0.04 in
          </description>
-         <pubDate>Mon, 03 Jan 2022 18:45:00 CST</pubDate>
+         <pubDate>Mon, 03 Jan 2022 19:45:00 CST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   January 2022<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 01/03/2022 06:45:00 PM</title>
+         <title>Yearly Weather Summary as of 01/03/2022 07:45:00 PM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: 18.3&#176;F at 01/02/2022 07:26:13 AM;
@@ -116,7 +116,7 @@
             Max wind :               20 mph from 315&#176; at 01/01/2022 02:30:44 PM;
             Rain total for year:     0.04 in
          </description>
-         <pubDate>Mon, 03 Jan 2022 18:45:00 CST</pubDate>
+         <pubDate>Mon, 03 Jan 2022 19:45:00 CST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2022<br/>
