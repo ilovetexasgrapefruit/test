@@ -7,36 +7,36 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Sun, 09 Jan 2022 23:45:00 CST</pubDate>
+      <pubDate>Mon, 10 Jan 2022 00:45:00 CST</pubDate>
 
-      <lastBuildDate>Sun, 09 Jan 2022 23:45:00 CST</lastBuildDate>
+      <lastBuildDate>Mon, 10 Jan 2022 00:45:00 CST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.8.2</generator>
       <ttl>5.000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 01/09/2022 11:45:00 PM</title>
+         <title>Weather Conditions at 01/10/2022 12:45:00 AM</title>
          <link></link>
          <description>
-           Outside temperature: 40.8&#176;F; 
-           Barometer: 30.570 inHg; 
+           Outside temperature: 39.4&#176;F; 
+           Barometer: 30.572 inHg; 
            Wind: 0 mph from    N/A; 
            Rain rate: 0.00 in/hr; 
-           Inside temperature: 67.5&#176;F
+           Inside temperature: 67.1&#176;F
          </description>
-         <pubDate>Sun, 09 Jan 2022 23:45:00 CST</pubDate>
+         <pubDate>Mon, 10 Jan 2022 00:45:00 CST</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                01/09/2022 11:45:00 PM<br/>
-             Outside Temperature: 40.8&#176;F<br/>
-             Inside Temperature:  67.5&#176;F<br/>
-             Wind Chill:          40.8&#176;F<br/>
-             Heat Index:          40.8&#176;F<br/>
-             Dewpoint:            28.0&#176;F<br/>
-             Humidity:            60%<br/>
-             Barometer:           30.570 inHg<br/>
+             Time:                01/10/2022 12:45:00 AM<br/>
+             Outside Temperature: 39.4&#176;F<br/>
+             Inside Temperature:  67.1&#176;F<br/>
+             Wind Chill:          39.4&#176;F<br/>
+             Heat Index:          39.4&#176;F<br/>
+             Dewpoint:            27.5&#176;F<br/>
+             Humidity:            62%<br/>
+             Barometer:           30.572 inHg<br/>
              Wind:                0 mph from    N/A<br/>
              Rain Rate:           0.00 in/hr<br/>
         </p>
@@ -44,38 +44,38 @@
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 01/09/2022 11:45:00 PM</title>
+         <title>Daily Weather Summary as of 01/10/2022 12:45:00 AM</title>
          <link></link>
          <description>
-	        Min outside temperature: 40.8&#176;F at 11:33:40 PM;
-         	Max outside temperature: 64.8&#176;F at 12:00:17 AM;
-	        Min inside temperature:  67.5&#176;F at 11:27:08 PM;
-	        Max inside temperature:  70.3&#176;F at 12:51:28 AM;
-	        Min barometer:           29.934 inHg at 12:05:00 AM;
-	        Max barometer:           30.570 inHg at 11:45:00 PM;
-            Max wind :               12 mph from 292&#176; at 03:27:13 PM;
-            Rain today:              0.01 in
+	        Min outside temperature: 39.4&#176;F at 12:36:25 AM;
+         	Max outside temperature: 40.5&#176;F at 12:00:31 AM;
+	        Min inside temperature:  67.1&#176;F at 12:39:31 AM;
+	        Max inside temperature:  67.5&#176;F at 12:00:19 AM;
+	        Min barometer:           30.568 inHg at 12:29:28 AM;
+	        Max barometer:           30.574 inHg at 12:26:27 AM;
+            Max wind :               0 mph from    N/A at 12:00:13 AM;
+            Rain today:              0.00 in
          </description>
-         <pubDate>Sun, 09 Jan 2022 23:45:00 CST</pubDate>
+         <pubDate>Mon, 10 Jan 2022 00:45:00 CST</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Day:                     09 Jan 2022<br/>
-	         Min Outside Temperature: 40.8&#176;F at 11:33:40 PM<br/>
-	         Max Outside Temperature: 64.8&#176;F at 12:00:17 AM<br/>
-	         Min Inside Temperature:  67.5&#176;F at 11:27:08 PM<br/>
-	         Max Inside Temperature:  70.3&#176;F at 12:51:28 AM<br/>
-	         Min Barometer:           29.934 inHg at 12:05:00 AM<br/>
-	         Max Barometer:           30.570 inHg at 11:45:00 PM<br/>
-             Max Wind :               12 mph from 292&#176; at 03:27:13 PM<br/>
-             Rain today:              0.01 in<br/>
+             Day:                     10 Jan 2022<br/>
+	         Min Outside Temperature: 39.4&#176;F at 12:36:25 AM<br/>
+	         Max Outside Temperature: 40.5&#176;F at 12:00:31 AM<br/>
+	         Min Inside Temperature:  67.1&#176;F at 12:39:31 AM<br/>
+	         Max Inside Temperature:  67.5&#176;F at 12:00:19 AM<br/>
+	         Min Barometer:           30.568 inHg at 12:29:28 AM<br/>
+	         Max Barometer:           30.574 inHg at 12:26:27 AM<br/>
+             Max Wind :               0 mph from    N/A at 12:00:13 AM<br/>
+             Rain today:              0.00 in<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 01/09/2022 11:45:00 PM</title>
+         <title>Monthly Weather Summary as of 01/10/2022 12:45:00 AM</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 18.3&#176;F at 01/02/2022 07:26:13 AM;
@@ -83,11 +83,11 @@
 	        Min inside temperature:  63.0&#176;F at 01/02/2022 06:26:58 AM;
 	        Max inside temperature:  72.1&#176;F at 01/01/2022 01:15:06 PM;
 	        Min barometer:           29.584 inHg at 01/01/2022 01:50:18 PM;
-	        Max barometer:           30.570 inHg at 01/09/2022 11:45:00 PM;
+	        Max barometer:           30.574 inHg at 01/10/2022 12:26:27 AM;
             Max wind :               20 mph from 315&#176; at 01/01/2022 02:30:44 PM;
             Rain total for month:    0.08 in
          </description>
-         <pubDate>Sun, 09 Jan 2022 23:45:00 CST</pubDate>
+         <pubDate>Mon, 10 Jan 2022 00:45:00 CST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   January 2022<br/>
@@ -96,7 +96,7 @@
 	         Max Inside Temperature:  72.1&#176;F at 01/01/2022 01:15:06 PM<br/>
 	         Min Inside Temperature:  63.0&#176;F at 01/02/2022 06:26:58 AM<br/>
 	         Min Barometer:           29.584 inHg at 01/01/2022 01:50:18 PM<br/>
-	         Max Barometer:           30.570 inHg at 01/09/2022 11:45:00 PM<br/>
+	         Max Barometer:           30.574 inHg at 01/10/2022 12:26:27 AM<br/>
              Max Wind :               20 mph from 315&#176; at 01/01/2022 02:30:44 PM<br/>
              Rain total for month:    0.08 in<br/>
         </p>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 01/09/2022 11:45:00 PM</title>
+         <title>Yearly Weather Summary as of 01/10/2022 12:45:00 AM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: 18.3&#176;F at 01/02/2022 07:26:13 AM;
@@ -112,11 +112,11 @@
 	        Min inside temperature:  63.0&#176;F at 01/02/2022 06:26:58 AM;
 	        Max inside temperature:  72.1&#176;F at 01/01/2022 01:15:06 PM;
 	        Min barometer:           29.584 inHg at 01/01/2022 01:50:18 PM;
-	        Max barometer:           30.570 inHg at 01/09/2022 11:45:00 PM;
+	        Max barometer:           30.574 inHg at 01/10/2022 12:26:27 AM;
             Max wind :               20 mph from 315&#176; at 01/01/2022 02:30:44 PM;
             Rain total for year:     0.08 in
          </description>
-         <pubDate>Sun, 09 Jan 2022 23:45:00 CST</pubDate>
+         <pubDate>Mon, 10 Jan 2022 00:45:00 CST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2022<br/>
@@ -125,7 +125,7 @@
 	         Max Inside Temperature:  72.1&#176;F at 01/01/2022 01:15:06 PM<br/>
 	         Min Inside Temperature:  63.0&#176;F at 01/02/2022 06:26:58 AM<br/>
 	         Min Barometer:           29.584 inHg at 01/01/2022 01:50:18 PM<br/>
-	         Max Barometer:           30.570 inHg at 01/09/2022 11:45:00 PM<br/>
+	         Max Barometer:           30.574 inHg at 01/10/2022 12:26:27 AM<br/>
              Max Wind :               20 mph from 315&#176; at 01/01/2022 02:30:44 PM<br/>
              Rain total for year:     0.08 in<br/>
         </p>
