@@ -7,36 +7,36 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Thu, 20 Jan 2022 14:45:00 CST</pubDate>
+      <pubDate>Thu, 20 Jan 2022 15:45:00 CST</pubDate>
 
-      <lastBuildDate>Thu, 20 Jan 2022 14:45:00 CST</lastBuildDate>
+      <lastBuildDate>Thu, 20 Jan 2022 15:45:00 CST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.8.2</generator>
       <ttl>5.000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 01/20/2022 02:45:00 PM</title>
+         <title>Weather Conditions at 01/20/2022 03:45:00 PM</title>
          <link></link>
          <description>
-           Outside temperature: 38.9&#176;F; 
-           Barometer: 30.434 inHg; 
+           Outside temperature: 37.7&#176;F; 
+           Barometer: 30.441 inHg; 
            Wind: 0 mph from    N/A; 
            Rain rate: 0.00 in/hr; 
            Inside temperature: 66.6&#176;F
          </description>
-         <pubDate>Thu, 20 Jan 2022 14:45:00 CST</pubDate>
+         <pubDate>Thu, 20 Jan 2022 15:45:00 CST</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                01/20/2022 02:45:00 PM<br/>
-             Outside Temperature: 38.9&#176;F<br/>
+             Time:                01/20/2022 03:45:00 PM<br/>
+             Outside Temperature: 37.7&#176;F<br/>
              Inside Temperature:  66.6&#176;F<br/>
-             Wind Chill:          38.9&#176;F<br/>
-             Heat Index:          38.9&#176;F<br/>
-             Dewpoint:            12.7&#176;F<br/>
-             Humidity:            34%<br/>
-             Barometer:           30.434 inHg<br/>
+             Wind Chill:          37.7&#176;F<br/>
+             Heat Index:          37.7&#176;F<br/>
+             Dewpoint:            10.5&#176;F<br/>
+             Humidity:            32%<br/>
+             Barometer:           30.441 inHg<br/>
              Wind:                0 mph from    N/A<br/>
              Rain Rate:           0.00 in/hr<br/>
         </p>
@@ -44,7 +44,7 @@
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 01/20/2022 02:45:00 PM</title>
+         <title>Daily Weather Summary as of 01/20/2022 03:45:00 PM</title>
          <link></link>
          <description>
 	        Min outside temperature: 12.2&#176;F at 12:24:57 PM;
@@ -54,9 +54,9 @@
 	        Min barometer:           30.314 inHg at 12:00:49 AM;
 	        Max barometer:           30.554 inHg at 11:20:00 AM;
             Max wind :               11 mph from 315&#176; at 07:58:08 AM;
-            Rain today:              0.00 in
+            Rain today:              0.56 in
          </description>
-         <pubDate>Thu, 20 Jan 2022 14:45:00 CST</pubDate>
+         <pubDate>Thu, 20 Jan 2022 15:45:00 CST</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
@@ -69,13 +69,13 @@
 	         Min Barometer:           30.314 inHg at 12:00:49 AM<br/>
 	         Max Barometer:           30.554 inHg at 11:20:00 AM<br/>
              Max Wind :               11 mph from 315&#176; at 07:58:08 AM<br/>
-             Rain today:              0.00 in<br/>
+             Rain today:              0.56 in<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 01/20/2022 02:45:00 PM</title>
+         <title>Monthly Weather Summary as of 01/20/2022 03:45:00 PM</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 12.2&#176;F at 01/20/2022 12:24:57 PM;
@@ -85,9 +85,9 @@
 	        Min barometer:           29.584 inHg at 01/01/2022 01:50:18 PM;
 	        Max barometer:           30.715 inHg at 01/10/2022 09:58:40 AM;
             Max wind :               23 mph from 315&#176; at 01/15/2022 12:44:55 AM;
-            Rain total for month:    169.63 in
+            Rain total for month:    170.19 in
          </description>
-         <pubDate>Thu, 20 Jan 2022 14:45:00 CST</pubDate>
+         <pubDate>Thu, 20 Jan 2022 15:45:00 CST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   January 2022<br/>
@@ -98,13 +98,13 @@
 	         Min Barometer:           29.584 inHg at 01/01/2022 01:50:18 PM<br/>
 	         Max Barometer:           30.715 inHg at 01/10/2022 09:58:40 AM<br/>
              Max Wind :               23 mph from 315&#176; at 01/15/2022 12:44:55 AM<br/>
-             Rain total for month:    169.63 in<br/>
+             Rain total for month:    170.19 in<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 01/20/2022 02:45:00 PM</title>
+         <title>Yearly Weather Summary as of 01/20/2022 03:45:00 PM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: 12.2&#176;F at 01/20/2022 12:24:57 PM;
@@ -114,9 +114,9 @@
 	        Min barometer:           29.584 inHg at 01/01/2022 01:50:18 PM;
 	        Max barometer:           30.715 inHg at 01/10/2022 09:58:40 AM;
             Max wind :               23 mph from 315&#176; at 01/15/2022 12:44:55 AM;
-            Rain total for year:     169.63 in
+            Rain total for year:     170.19 in
          </description>
-         <pubDate>Thu, 20 Jan 2022 14:45:00 CST</pubDate>
+         <pubDate>Thu, 20 Jan 2022 15:45:00 CST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2022<br/>
@@ -127,7 +127,7 @@
 	         Min Barometer:           29.584 inHg at 01/01/2022 01:50:18 PM<br/>
 	         Max Barometer:           30.715 inHg at 01/10/2022 09:58:40 AM<br/>
              Max Wind :               23 mph from 315&#176; at 01/15/2022 12:44:55 AM<br/>
-             Rain total for year:     169.63 in<br/>
+             Rain total for year:     170.19 in<br/>
         </p>
       ]]></content:encoded>
       </item>
