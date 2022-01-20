@@ -7,67 +7,67 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Wed, 19 Jan 2022 18:45:00 CST</pubDate>
+      <pubDate>Wed, 19 Jan 2022 19:45:00 CST</pubDate>
 
-      <lastBuildDate>Wed, 19 Jan 2022 18:45:00 CST</lastBuildDate>
+      <lastBuildDate>Wed, 19 Jan 2022 19:45:00 CST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.8.2</generator>
       <ttl>5.000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 01/19/2022 06:45:00 PM</title>
+         <title>Weather Conditions at 01/19/2022 07:45:00 PM</title>
          <link></link>
          <description>
-           Outside temperature: 43.2&#176;F; 
-           Barometer: 30.114 inHg; 
-           Wind: 4 mph from 312&#176;; 
+           Outside temperature: 40.1&#176;F; 
+           Barometer: 30.177 inHg; 
+           Wind: 0 mph from    N/A; 
            Rain rate: 0.00 in/hr; 
-           Inside temperature: 67.8&#176;F
+           Inside temperature: 67.5&#176;F
          </description>
-         <pubDate>Wed, 19 Jan 2022 18:45:00 CST</pubDate>
+         <pubDate>Wed, 19 Jan 2022 19:45:00 CST</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                01/19/2022 06:45:00 PM<br/>
-             Outside Temperature: 43.2&#176;F<br/>
-             Inside Temperature:  67.8&#176;F<br/>
-             Wind Chill:          42.3&#176;F<br/>
-             Heat Index:          43.2&#176;F<br/>
-             Dewpoint:            36.2&#176;F<br/>
-             Humidity:            76%<br/>
-             Barometer:           30.114 inHg<br/>
-             Wind:                4 mph from 312&#176;<br/>
+             Time:                01/19/2022 07:45:00 PM<br/>
+             Outside Temperature: 40.1&#176;F<br/>
+             Inside Temperature:  67.5&#176;F<br/>
+             Wind Chill:          40.1&#176;F<br/>
+             Heat Index:          40.1&#176;F<br/>
+             Dewpoint:            32.3&#176;F<br/>
+             Humidity:            74%<br/>
+             Barometer:           30.177 inHg<br/>
+             Wind:                0 mph from    N/A<br/>
              Rain Rate:           0.00 in/hr<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 01/19/2022 06:45:00 PM</title>
+         <title>Daily Weather Summary as of 01/19/2022 07:45:00 PM</title>
          <link></link>
          <description>
-	        Min outside temperature: 43.2&#176;F at 06:40:55 PM;
+	        Min outside temperature: 39.9&#176;F at 07:44:52 PM;
          	Max outside temperature: 61.9&#176;F at 12:00:04 AM;
-	        Min inside temperature:  67.8&#176;F at 06:27:57 PM;
+	        Min inside temperature:  67.5&#176;F at 07:27:17 PM;
 	        Max inside temperature:  69.8&#176;F at 12:00:46 AM;
 	        Min barometer:           29.772 inHg at 04:28:15 AM;
-	        Max barometer:           30.114 inHg at 06:45:00 PM;
+	        Max barometer:           30.177 inHg at 07:40:21 PM;
             Max wind :               12 mph from    N/A at 03:42:01 PM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Wed, 19 Jan 2022 18:45:00 CST</pubDate>
+         <pubDate>Wed, 19 Jan 2022 19:45:00 CST</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
              Day:                     19 Jan 2022<br/>
-	         Min Outside Temperature: 43.2&#176;F at 06:40:55 PM<br/>
+	         Min Outside Temperature: 39.9&#176;F at 07:44:52 PM<br/>
 	         Max Outside Temperature: 61.9&#176;F at 12:00:04 AM<br/>
-	         Min Inside Temperature:  67.8&#176;F at 06:27:57 PM<br/>
+	         Min Inside Temperature:  67.5&#176;F at 07:27:17 PM<br/>
 	         Max Inside Temperature:  69.8&#176;F at 12:00:46 AM<br/>
 	         Min Barometer:           29.772 inHg at 04:28:15 AM<br/>
-	         Max Barometer:           30.114 inHg at 06:45:00 PM<br/>
+	         Max Barometer:           30.177 inHg at 07:40:21 PM<br/>
              Max Wind :               12 mph from    N/A at 03:42:01 PM<br/>
              Rain today:              0.00 in<br/>
         </p>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 01/19/2022 06:45:00 PM</title>
+         <title>Monthly Weather Summary as of 01/19/2022 07:45:00 PM</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 18.3&#176;F at 01/02/2022 07:26:13 AM;
@@ -87,7 +87,7 @@
             Max wind :               23 mph from 315&#176; at 01/15/2022 12:44:55 AM;
             Rain total for month:    169.62 in
          </description>
-         <pubDate>Wed, 19 Jan 2022 18:45:00 CST</pubDate>
+         <pubDate>Wed, 19 Jan 2022 19:45:00 CST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   January 2022<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 01/19/2022 06:45:00 PM</title>
+         <title>Yearly Weather Summary as of 01/19/2022 07:45:00 PM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: 18.3&#176;F at 01/02/2022 07:26:13 AM;
@@ -116,7 +116,7 @@
             Max wind :               23 mph from 315&#176; at 01/15/2022 12:44:55 AM;
             Rain total for year:     169.62 in
          </description>
-         <pubDate>Wed, 19 Jan 2022 18:45:00 CST</pubDate>
+         <pubDate>Wed, 19 Jan 2022 19:45:00 CST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2022<br/>
