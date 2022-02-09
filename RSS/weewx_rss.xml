@@ -7,36 +7,36 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Wed, 09 Feb 2022 03:45:00 CST</pubDate>
+      <pubDate>Wed, 09 Feb 2022 04:45:00 CST</pubDate>
 
-      <lastBuildDate>Wed, 09 Feb 2022 03:45:00 CST</lastBuildDate>
+      <lastBuildDate>Wed, 09 Feb 2022 04:45:00 CST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.8.2</generator>
       <ttl>5.000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 02/09/2022 03:45:00 AM</title>
+         <title>Weather Conditions at 02/09/2022 04:45:00 AM</title>
          <link></link>
          <description>
-           Outside temperature: 35.9&#176;F; 
-           Barometer: 30.067 inHg; 
+           Outside temperature: 34.4&#176;F; 
+           Barometer: 30.063 inHg; 
            Wind: 0 mph from    N/A; 
            Rain rate: 0.00 in/hr; 
-           Inside temperature: 67.8&#176;F
+           Inside temperature: 67.5&#176;F
          </description>
-         <pubDate>Wed, 09 Feb 2022 03:45:00 CST</pubDate>
+         <pubDate>Wed, 09 Feb 2022 04:45:00 CST</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                02/09/2022 03:45:00 AM<br/>
-             Outside Temperature: 35.9&#176;F<br/>
-             Inside Temperature:  67.8&#176;F<br/>
-             Wind Chill:          35.9&#176;F<br/>
-             Heat Index:          35.9&#176;F<br/>
-             Dewpoint:            30.6&#176;F<br/>
-             Humidity:            81%<br/>
-             Barometer:           30.067 inHg<br/>
+             Time:                02/09/2022 04:45:00 AM<br/>
+             Outside Temperature: 34.4&#176;F<br/>
+             Inside Temperature:  67.5&#176;F<br/>
+             Wind Chill:          34.4&#176;F<br/>
+             Heat Index:          34.4&#176;F<br/>
+             Dewpoint:            30.9&#176;F<br/>
+             Humidity:            87%<br/>
+             Barometer:           30.063 inHg<br/>
              Wind:                0 mph from    N/A<br/>
              Rain Rate:           0.00 in/hr<br/>
         </p>
@@ -44,29 +44,29 @@
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 02/09/2022 03:45:00 AM</title>
+         <title>Daily Weather Summary as of 02/09/2022 04:45:00 AM</title>
          <link></link>
          <description>
-	        Min outside temperature: 35.8&#176;F at 03:37:50 AM;
+	        Min outside temperature: 34.3&#176;F at 04:41:48 AM;
          	Max outside temperature: 49.5&#176;F at 12:07:17 AM;
-	        Min inside temperature:  67.6&#176;F at 12:40:28 AM;
+	        Min inside temperature:  67.5&#176;F at 04:39:47 AM;
 	        Max inside temperature:  68.2&#176;F at 12:00:14 AM;
-	        Min barometer:           30.065 inHg at 02:16:59 AM;
+	        Min barometer:           30.062 inHg at 04:05:00 AM;
 	        Max barometer:           30.088 inHg at 02:50:00 AM;
             Max wind :               0 mph from    N/A at 12:00:02 AM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Wed, 09 Feb 2022 03:45:00 CST</pubDate>
+         <pubDate>Wed, 09 Feb 2022 04:45:00 CST</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
              Day:                     09 Feb 2022<br/>
-	         Min Outside Temperature: 35.8&#176;F at 03:37:50 AM<br/>
+	         Min Outside Temperature: 34.3&#176;F at 04:41:48 AM<br/>
 	         Max Outside Temperature: 49.5&#176;F at 12:07:17 AM<br/>
-	         Min Inside Temperature:  67.6&#176;F at 12:40:28 AM<br/>
+	         Min Inside Temperature:  67.5&#176;F at 04:39:47 AM<br/>
 	         Max Inside Temperature:  68.2&#176;F at 12:00:14 AM<br/>
-	         Min Barometer:           30.065 inHg at 02:16:59 AM<br/>
+	         Min Barometer:           30.062 inHg at 04:05:00 AM<br/>
 	         Max Barometer:           30.088 inHg at 02:50:00 AM<br/>
              Max Wind :               0 mph from    N/A at 12:00:02 AM<br/>
              Rain today:              0.00 in<br/>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 02/09/2022 03:45:00 AM</title>
+         <title>Monthly Weather Summary as of 02/09/2022 04:45:00 AM</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 17.1&#176;F at 02/05/2022 06:34:25 AM;
@@ -87,7 +87,7 @@
             Max wind :               13 mph from    N/A at 02/02/2022 09:51:22 AM;
             Rain total for month:    104.69 in
          </description>
-         <pubDate>Wed, 09 Feb 2022 03:45:00 CST</pubDate>
+         <pubDate>Wed, 09 Feb 2022 04:45:00 CST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   February 2022<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 02/09/2022 03:45:00 AM</title>
+         <title>Yearly Weather Summary as of 02/09/2022 04:45:00 AM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: 12.2&#176;F at 01/20/2022 12:24:57 PM;
@@ -116,7 +116,7 @@
             Max wind :               23 mph from 315&#176; at 01/15/2022 12:44:55 AM;
             Rain total for year:     329.17 in
          </description>
-         <pubDate>Wed, 09 Feb 2022 03:45:00 CST</pubDate>
+         <pubDate>Wed, 09 Feb 2022 04:45:00 CST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2022<br/>
