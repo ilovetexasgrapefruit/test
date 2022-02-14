@@ -7,36 +7,36 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Sun, 13 Feb 2022 23:45:00 CST</pubDate>
+      <pubDate>Mon, 14 Feb 2022 00:45:00 CST</pubDate>
 
-      <lastBuildDate>Sun, 13 Feb 2022 23:45:00 CST</lastBuildDate>
+      <lastBuildDate>Mon, 14 Feb 2022 00:45:00 CST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.8.2</generator>
       <ttl>5.000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 02/13/2022 11:45:00 PM</title>
+         <title>Weather Conditions at 02/14/2022 12:45:00 AM</title>
          <link></link>
          <description>
-           Outside temperature: 35.9&#176;F; 
-           Barometer: 30.323 inHg; 
+           Outside temperature: 35.7&#176;F; 
+           Barometer: 30.311 inHg; 
            Wind: 0 mph from    N/A; 
            Rain rate: 0.00 in/hr; 
-           Inside temperature: 68.4&#176;F
+           Inside temperature: 67.6&#176;F
          </description>
-         <pubDate>Sun, 13 Feb 2022 23:45:00 CST</pubDate>
+         <pubDate>Mon, 14 Feb 2022 00:45:00 CST</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                02/13/2022 11:45:00 PM<br/>
-             Outside Temperature: 35.9&#176;F<br/>
-             Inside Temperature:  68.4&#176;F<br/>
-             Wind Chill:          35.9&#176;F<br/>
-             Heat Index:          35.9&#176;F<br/>
-             Dewpoint:            26.6&#176;F<br/>
-             Humidity:            69%<br/>
-             Barometer:           30.323 inHg<br/>
+             Time:                02/14/2022 12:45:00 AM<br/>
+             Outside Temperature: 35.7&#176;F<br/>
+             Inside Temperature:  67.6&#176;F<br/>
+             Wind Chill:          35.7&#176;F<br/>
+             Heat Index:          35.7&#176;F<br/>
+             Dewpoint:            28.4&#176;F<br/>
+             Humidity:            74%<br/>
+             Barometer:           30.311 inHg<br/>
              Wind:                0 mph from    N/A<br/>
              Rain Rate:           0.00 in/hr<br/>
         </p>
@@ -44,38 +44,38 @@
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 02/13/2022 11:45:00 PM</title>
+         <title>Daily Weather Summary as of 02/14/2022 12:45:00 AM</title>
          <link></link>
          <description>
-	        Min outside temperature: 22.8&#176;F at 05:02:08 AM;
-         	Max outside temperature: 67.8&#176;F at 02:53:17 PM;
-	        Min inside temperature:  66.4&#176;F at 06:16:17 AM;
-	        Max inside temperature:  70.3&#176;F at 05:40:14 PM;
-	        Min barometer:           30.267 inHg at 05:21:08 PM;
-	        Max barometer:           30.502 inHg at 12:05:00 AM;
-            Max wind :               9 mph from    N/A at 03:28:35 PM;
+	        Min outside temperature: 34.9&#176;F at 12:28:15 AM;
+         	Max outside temperature: 35.8&#176;F at 12:43:20 AM;
+	        Min inside temperature:  67.6&#176;F at 12:40:37 AM;
+	        Max inside temperature:  68.2&#176;F at 12:00:24 AM;
+	        Min barometer:           30.311 inHg at 12:45:00 AM;
+	        Max barometer:           30.324 inHg at 12:01:24 AM;
+            Max wind :               0 mph from    N/A at 12:00:12 AM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Sun, 13 Feb 2022 23:45:00 CST</pubDate>
+         <pubDate>Mon, 14 Feb 2022 00:45:00 CST</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Day:                     13 Feb 2022<br/>
-	         Min Outside Temperature: 22.8&#176;F at 05:02:08 AM<br/>
-	         Max Outside Temperature: 67.8&#176;F at 02:53:17 PM<br/>
-	         Min Inside Temperature:  66.4&#176;F at 06:16:17 AM<br/>
-	         Max Inside Temperature:  70.3&#176;F at 05:40:14 PM<br/>
-	         Min Barometer:           30.267 inHg at 05:21:08 PM<br/>
-	         Max Barometer:           30.502 inHg at 12:05:00 AM<br/>
-             Max Wind :               9 mph from    N/A at 03:28:35 PM<br/>
+             Day:                     14 Feb 2022<br/>
+	         Min Outside Temperature: 34.9&#176;F at 12:28:15 AM<br/>
+	         Max Outside Temperature: 35.8&#176;F at 12:43:20 AM<br/>
+	         Min Inside Temperature:  67.6&#176;F at 12:40:37 AM<br/>
+	         Max Inside Temperature:  68.2&#176;F at 12:00:24 AM<br/>
+	         Min Barometer:           30.311 inHg at 12:45:00 AM<br/>
+	         Max Barometer:           30.324 inHg at 12:01:24 AM<br/>
+             Max Wind :               0 mph from    N/A at 12:00:12 AM<br/>
              Rain today:              0.00 in<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 02/13/2022 11:45:00 PM</title>
+         <title>Monthly Weather Summary as of 02/14/2022 12:45:00 AM</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 17.1&#176;F at 02/05/2022 06:34:25 AM;
@@ -87,7 +87,7 @@
             Max wind :               17 mph from    N/A at 02/12/2022 05:53:53 AM;
             Rain total for month:    104.69 in
          </description>
-         <pubDate>Sun, 13 Feb 2022 23:45:00 CST</pubDate>
+         <pubDate>Mon, 14 Feb 2022 00:45:00 CST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   February 2022<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 02/13/2022 11:45:00 PM</title>
+         <title>Yearly Weather Summary as of 02/14/2022 12:45:00 AM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: 12.2&#176;F at 01/20/2022 12:24:57 PM;
@@ -116,7 +116,7 @@
             Max wind :               23 mph from 315&#176; at 01/15/2022 12:44:55 AM;
             Rain total for year:     329.17 in
          </description>
-         <pubDate>Sun, 13 Feb 2022 23:45:00 CST</pubDate>
+         <pubDate>Mon, 14 Feb 2022 00:45:00 CST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2022<br/>
