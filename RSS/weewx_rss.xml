@@ -7,56 +7,56 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Wed, 16 Feb 2022 12:45:00 CST</pubDate>
+      <pubDate>Wed, 16 Feb 2022 13:45:00 CST</pubDate>
 
-      <lastBuildDate>Wed, 16 Feb 2022 12:45:00 CST</lastBuildDate>
+      <lastBuildDate>Wed, 16 Feb 2022 13:45:00 CST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.8.2</generator>
       <ttl>5.000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 02/16/2022 12:45:00 PM</title>
+         <title>Weather Conditions at 02/16/2022 01:45:00 PM</title>
          <link></link>
          <description>
-           Outside temperature: 67.8&#176;F; 
-           Barometer: 29.874 inHg; 
-           Wind: 4 mph from 149&#176;; 
+           Outside temperature: 67.6&#176;F; 
+           Barometer: 29.838 inHg; 
+           Wind: 5 mph from 168&#176;; 
            Rain rate: 0.00 in/hr; 
            Inside temperature: 70.2&#176;F
          </description>
-         <pubDate>Wed, 16 Feb 2022 12:45:00 CST</pubDate>
+         <pubDate>Wed, 16 Feb 2022 13:45:00 CST</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                02/16/2022 12:45:00 PM<br/>
-             Outside Temperature: 67.8&#176;F<br/>
+             Time:                02/16/2022 01:45:00 PM<br/>
+             Outside Temperature: 67.6&#176;F<br/>
              Inside Temperature:  70.2&#176;F<br/>
-             Wind Chill:          67.8&#176;F<br/>
-             Heat Index:          67.8&#176;F<br/>
+             Wind Chill:          67.6&#176;F<br/>
+             Heat Index:          67.6&#176;F<br/>
              Dewpoint:            64.1&#176;F<br/>
-             Humidity:            88%<br/>
-             Barometer:           29.874 inHg<br/>
-             Wind:                4 mph from 149&#176;<br/>
+             Humidity:            89%<br/>
+             Barometer:           29.838 inHg<br/>
+             Wind:                5 mph from 168&#176;<br/>
              Rain Rate:           0.00 in/hr<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 02/16/2022 12:45:00 PM</title>
+         <title>Daily Weather Summary as of 02/16/2022 01:45:00 PM</title>
          <link></link>
          <description>
 	        Min outside temperature: 60.6&#176;F at 12:00:18 AM;
          	Max outside temperature: 67.8&#176;F at 12:36:23 PM;
 	        Min inside temperature:  69.1&#176;F at 04:16:16 AM;
 	        Max inside temperature:  70.2&#176;F at 12:00:49 AM;
-	        Min barometer:           29.874 inHg at 12:45:00 PM;
+	        Min barometer:           29.838 inHg at 01:45:00 PM;
 	        Max barometer:           29.977 inHg at 12:05:00 AM;
             Max wind :               19 mph from 112&#176; at 09:37:28 AM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Wed, 16 Feb 2022 12:45:00 CST</pubDate>
+         <pubDate>Wed, 16 Feb 2022 13:45:00 CST</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
@@ -66,7 +66,7 @@
 	         Max Outside Temperature: 67.8&#176;F at 12:36:23 PM<br/>
 	         Min Inside Temperature:  69.1&#176;F at 04:16:16 AM<br/>
 	         Max Inside Temperature:  70.2&#176;F at 12:00:49 AM<br/>
-	         Min Barometer:           29.874 inHg at 12:45:00 PM<br/>
+	         Min Barometer:           29.838 inHg at 01:45:00 PM<br/>
 	         Max Barometer:           29.977 inHg at 12:05:00 AM<br/>
              Max Wind :               19 mph from 112&#176; at 09:37:28 AM<br/>
              Rain today:              0.00 in<br/>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 02/16/2022 12:45:00 PM</title>
+         <title>Monthly Weather Summary as of 02/16/2022 01:45:00 PM</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 17.1&#176;F at 02/05/2022 06:34:25 AM;
@@ -87,7 +87,7 @@
             Max wind :               20 mph from 158&#176; at 02/15/2022 11:26:52 AM;
             Rain total for month:    104.69 in
          </description>
-         <pubDate>Wed, 16 Feb 2022 12:45:00 CST</pubDate>
+         <pubDate>Wed, 16 Feb 2022 13:45:00 CST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   February 2022<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 02/16/2022 12:45:00 PM</title>
+         <title>Yearly Weather Summary as of 02/16/2022 01:45:00 PM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: 12.2&#176;F at 01/20/2022 12:24:57 PM;
@@ -116,7 +116,7 @@
             Max wind :               23 mph from 315&#176; at 01/15/2022 12:44:55 AM;
             Rain total for year:     329.17 in
          </description>
-         <pubDate>Wed, 16 Feb 2022 12:45:00 CST</pubDate>
+         <pubDate>Wed, 16 Feb 2022 13:45:00 CST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2022<br/>
