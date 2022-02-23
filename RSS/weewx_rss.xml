@@ -7,67 +7,67 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Tue, 22 Feb 2022 20:45:00 CST</pubDate>
+      <pubDate>Tue, 22 Feb 2022 21:45:00 CST</pubDate>
 
-      <lastBuildDate>Tue, 22 Feb 2022 20:45:00 CST</lastBuildDate>
+      <lastBuildDate>Tue, 22 Feb 2022 21:45:00 CST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.8.2</generator>
       <ttl>5.000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 02/22/2022 08:45:00 PM</title>
+         <title>Weather Conditions at 02/22/2022 09:45:00 PM</title>
          <link></link>
          <description>
-           Outside temperature: 38.7&#176;F; 
-           Barometer: 30.224 inHg; 
-           Wind: 1 mph from 348&#176;; 
+           Outside temperature: 36.5&#176;F; 
+           Barometer: 30.244 inHg; 
+           Wind: 0 mph from 337&#176;; 
            Rain rate: 0.00 in/hr; 
-           Inside temperature: 67.8&#176;F
+           Inside temperature: 67.5&#176;F
          </description>
-         <pubDate>Tue, 22 Feb 2022 20:45:00 CST</pubDate>
+         <pubDate>Tue, 22 Feb 2022 21:45:00 CST</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                02/22/2022 08:45:00 PM<br/>
-             Outside Temperature: 38.7&#176;F<br/>
-             Inside Temperature:  67.8&#176;F<br/>
-             Wind Chill:          37.6&#176;F<br/>
-             Heat Index:          38.7&#176;F<br/>
-             Dewpoint:            29.8&#176;F<br/>
-             Humidity:            70%<br/>
-             Barometer:           30.224 inHg<br/>
-             Wind:                1 mph from 348&#176;<br/>
+             Time:                02/22/2022 09:45:00 PM<br/>
+             Outside Temperature: 36.5&#176;F<br/>
+             Inside Temperature:  67.5&#176;F<br/>
+             Wind Chill:          36.5&#176;F<br/>
+             Heat Index:          36.5&#176;F<br/>
+             Dewpoint:            27.3&#176;F<br/>
+             Humidity:            69%<br/>
+             Barometer:           30.244 inHg<br/>
+             Wind:                0 mph from 337&#176;<br/>
              Rain Rate:           0.00 in/hr<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 02/22/2022 08:45:00 PM</title>
+         <title>Daily Weather Summary as of 02/22/2022 09:45:00 PM</title>
          <link></link>
          <description>
-	        Min outside temperature: 38.7&#176;F at 08:40:10 PM;
+	        Min outside temperature: 36.5&#176;F at 09:41:06 PM;
          	Max outside temperature: 70.9&#176;F at 12:00:17 AM;
-	        Min inside temperature:  67.8&#176;F at 05:16:19 PM;
+	        Min inside temperature:  67.5&#176;F at 09:39:48 PM;
 	        Max inside temperature:  72.9&#176;F at 12:00:30 AM;
 	        Min barometer:           29.697 inHg at 12:01:30 AM;
-	        Max barometer:           30.224 inHg at 08:43:29 PM;
+	        Max barometer:           30.244 inHg at 09:45:00 PM;
             Max wind :               17 mph from 315&#176; at 10:54:47 AM;
             Rain today:              0.08 in
          </description>
-         <pubDate>Tue, 22 Feb 2022 20:45:00 CST</pubDate>
+         <pubDate>Tue, 22 Feb 2022 21:45:00 CST</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
              Day:                     22 Feb 2022<br/>
-	         Min Outside Temperature: 38.7&#176;F at 08:40:10 PM<br/>
+	         Min Outside Temperature: 36.5&#176;F at 09:41:06 PM<br/>
 	         Max Outside Temperature: 70.9&#176;F at 12:00:17 AM<br/>
-	         Min Inside Temperature:  67.8&#176;F at 05:16:19 PM<br/>
+	         Min Inside Temperature:  67.5&#176;F at 09:39:48 PM<br/>
 	         Max Inside Temperature:  72.9&#176;F at 12:00:30 AM<br/>
 	         Min Barometer:           29.697 inHg at 12:01:30 AM<br/>
-	         Max Barometer:           30.224 inHg at 08:43:29 PM<br/>
+	         Max Barometer:           30.244 inHg at 09:45:00 PM<br/>
              Max Wind :               17 mph from 315&#176; at 10:54:47 AM<br/>
              Rain today:              0.08 in<br/>
         </p>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 02/22/2022 08:45:00 PM</title>
+         <title>Monthly Weather Summary as of 02/22/2022 09:45:00 PM</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 17.1&#176;F at 02/05/2022 06:34:25 AM;
@@ -87,7 +87,7 @@
             Max wind :               21 mph from    N/A at 02/17/2022 10:21:08 AM;
             Rain total for month:    105.18 in
          </description>
-         <pubDate>Tue, 22 Feb 2022 20:45:00 CST</pubDate>
+         <pubDate>Tue, 22 Feb 2022 21:45:00 CST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   February 2022<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 02/22/2022 08:45:00 PM</title>
+         <title>Yearly Weather Summary as of 02/22/2022 09:45:00 PM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: 12.2&#176;F at 01/20/2022 12:24:57 PM;
@@ -116,7 +116,7 @@
             Max wind :               23 mph from 315&#176; at 01/15/2022 12:44:55 AM;
             Rain total for year:     329.66 in
          </description>
-         <pubDate>Tue, 22 Feb 2022 20:45:00 CST</pubDate>
+         <pubDate>Tue, 22 Feb 2022 21:45:00 CST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2022<br/>
