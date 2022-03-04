@@ -7,36 +7,36 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Thu, 03 Mar 2022 19:45:00 CST</pubDate>
+      <pubDate>Thu, 03 Mar 2022 20:45:00 CST</pubDate>
 
-      <lastBuildDate>Thu, 03 Mar 2022 19:45:00 CST</lastBuildDate>
+      <lastBuildDate>Thu, 03 Mar 2022 20:45:00 CST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.8.2</generator>
       <ttl>5.000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 03/03/2022 07:45:00 PM</title>
+         <title>Weather Conditions at 03/03/2022 08:45:00 PM</title>
          <link></link>
          <description>
-           Outside temperature: 63.9&#176;F; 
-           Barometer: 30.073 inHg; 
+           Outside temperature: 60.0&#176;F; 
+           Barometer: 30.091 inHg; 
            Wind: 0 mph from    N/A; 
            Rain rate: 0.00 in/hr; 
-           Inside temperature: 72.1&#176;F
+           Inside temperature: 72.3&#176;F
          </description>
-         <pubDate>Thu, 03 Mar 2022 19:45:00 CST</pubDate>
+         <pubDate>Thu, 03 Mar 2022 20:45:00 CST</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                03/03/2022 07:45:00 PM<br/>
-             Outside Temperature: 63.9&#176;F<br/>
-             Inside Temperature:  72.1&#176;F<br/>
-             Wind Chill:          63.9&#176;F<br/>
-             Heat Index:          63.9&#176;F<br/>
-             Dewpoint:            42.2&#176;F<br/>
-             Humidity:            45%<br/>
-             Barometer:           30.073 inHg<br/>
+             Time:                03/03/2022 08:45:00 PM<br/>
+             Outside Temperature: 60.0&#176;F<br/>
+             Inside Temperature:  72.3&#176;F<br/>
+             Wind Chill:          60.0&#176;F<br/>
+             Heat Index:          60.0&#176;F<br/>
+             Dewpoint:            42.3&#176;F<br/>
+             Humidity:            52%<br/>
+             Barometer:           30.091 inHg<br/>
              Wind:                0 mph from    N/A<br/>
              Rain Rate:           0.00 in/hr<br/>
         </p>
@@ -44,19 +44,19 @@
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 03/03/2022 07:45:00 PM</title>
+         <title>Daily Weather Summary as of 03/03/2022 08:45:00 PM</title>
          <link></link>
          <description>
 	        Min outside temperature: 38.5&#176;F at 06:41:46 AM;
          	Max outside temperature: 80.8&#176;F at 02:19:01 PM;
 	        Min inside temperature:  67.5&#176;F at 07:03:47 AM;
-	        Max inside temperature:  72.1&#176;F at 05:28:25 PM;
+	        Max inside temperature:  72.3&#176;F at 08:40:32 PM;
 	        Min barometer:           30.036 inHg at 05:05:17 PM;
 	        Max barometer:           30.175 inHg at 09:35:00 AM;
             Max wind :               5 mph from    N/A at 01:31:03 PM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Thu, 03 Mar 2022 19:45:00 CST</pubDate>
+         <pubDate>Thu, 03 Mar 2022 20:45:00 CST</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
@@ -65,7 +65,7 @@
 	         Min Outside Temperature: 38.5&#176;F at 06:41:46 AM<br/>
 	         Max Outside Temperature: 80.8&#176;F at 02:19:01 PM<br/>
 	         Min Inside Temperature:  67.5&#176;F at 07:03:47 AM<br/>
-	         Max Inside Temperature:  72.1&#176;F at 05:28:25 PM<br/>
+	         Max Inside Temperature:  72.3&#176;F at 08:40:32 PM<br/>
 	         Min Barometer:           30.036 inHg at 05:05:17 PM<br/>
 	         Max Barometer:           30.175 inHg at 09:35:00 AM<br/>
              Max Wind :               5 mph from    N/A at 01:31:03 PM<br/>
@@ -75,25 +75,25 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 03/03/2022 07:45:00 PM</title>
+         <title>Monthly Weather Summary as of 03/03/2022 08:45:00 PM</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 30.9&#176;F at 03/01/2022 06:46:04 AM;
          	Max outside temperature: 80.8&#176;F at 03/03/2022 02:19:01 PM;
 	        Min inside temperature:  66.9&#176;F at 03/01/2022 07:52:46 AM;
-	        Max inside temperature:  72.1&#176;F at 03/03/2022 05:28:25 PM;
+	        Max inside temperature:  72.3&#176;F at 03/03/2022 08:40:32 PM;
 	        Min barometer:           30.036 inHg at 03/03/2022 05:05:17 PM;
 	        Max barometer:           30.227 inHg at 03/01/2022 07:45:00 AM;
             Max wind :               11 mph from    N/A at 03/01/2022 12:35:50 PM;
             Rain total for month:    0.58 in
          </description>
-         <pubDate>Thu, 03 Mar 2022 19:45:00 CST</pubDate>
+         <pubDate>Thu, 03 Mar 2022 20:45:00 CST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   March 2022<br/>
 	         Max Outside Temperature: 80.8&#176;F at 03/03/2022 02:19:01 PM<br/>
 	         Min Outside Temperature: 30.9&#176;F at 03/01/2022 06:46:04 AM<br/>
-	         Max Inside Temperature:  72.1&#176;F at 03/03/2022 05:28:25 PM<br/>
+	         Max Inside Temperature:  72.3&#176;F at 03/03/2022 08:40:32 PM<br/>
 	         Min Inside Temperature:  66.9&#176;F at 03/01/2022 07:52:46 AM<br/>
 	         Min Barometer:           30.036 inHg at 03/03/2022 05:05:17 PM<br/>
 	         Max Barometer:           30.227 inHg at 03/01/2022 07:45:00 AM<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 03/03/2022 07:45:00 PM</title>
+         <title>Yearly Weather Summary as of 03/03/2022 08:45:00 PM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: 12.2&#176;F at 01/20/2022 12:24:57 PM;
@@ -116,7 +116,7 @@
             Max wind :               23 mph from 315&#176; at 01/15/2022 12:44:55 AM;
             Rain total for year:     442.42 in
          </description>
-         <pubDate>Thu, 03 Mar 2022 19:45:00 CST</pubDate>
+         <pubDate>Thu, 03 Mar 2022 20:45:00 CST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2022<br/>
