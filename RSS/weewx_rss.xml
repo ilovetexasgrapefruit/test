@@ -7,36 +7,36 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Tue, 08 Mar 2022 07:45:00 CST</pubDate>
+      <pubDate>Tue, 08 Mar 2022 08:45:00 CST</pubDate>
 
-      <lastBuildDate>Tue, 08 Mar 2022 07:45:00 CST</lastBuildDate>
+      <lastBuildDate>Tue, 08 Mar 2022 08:45:00 CST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.8.2</generator>
       <ttl>5.000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 03/08/2022 07:45:00 AM</title>
+         <title>Weather Conditions at 03/08/2022 08:45:00 AM</title>
          <link></link>
          <description>
-           Outside temperature: 35.8&#176;F; 
-           Barometer: 30.146 inHg; 
+           Outside temperature: 36.8&#176;F; 
+           Barometer: 30.142 inHg; 
            Wind: 0 mph from    N/A; 
            Rain rate: 0.00 in/hr; 
            Inside temperature: 66.9&#176;F
          </description>
-         <pubDate>Tue, 08 Mar 2022 07:45:00 CST</pubDate>
+         <pubDate>Tue, 08 Mar 2022 08:45:00 CST</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                03/08/2022 07:45:00 AM<br/>
-             Outside Temperature: 35.8&#176;F<br/>
+             Time:                03/08/2022 08:45:00 AM<br/>
+             Outside Temperature: 36.8&#176;F<br/>
              Inside Temperature:  66.9&#176;F<br/>
-             Wind Chill:          35.8&#176;F<br/>
-             Heat Index:          35.8&#176;F<br/>
-             Dewpoint:            32.6&#176;F<br/>
-             Humidity:            88%<br/>
-             Barometer:           30.146 inHg<br/>
+             Wind Chill:          36.8&#176;F<br/>
+             Heat Index:          36.8&#176;F<br/>
+             Dewpoint:            33.3&#176;F<br/>
+             Humidity:            87%<br/>
+             Barometer:           30.142 inHg<br/>
              Wind:                0 mph from    N/A<br/>
              Rain Rate:           0.00 in/hr<br/>
         </p>
@@ -44,19 +44,19 @@
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 03/08/2022 07:45:00 AM</title>
+         <title>Daily Weather Summary as of 03/08/2022 08:45:00 AM</title>
          <link></link>
          <description>
 	        Min outside temperature: 31.5&#176;F at 04:57:28 AM;
          	Max outside temperature: 37.4&#176;F at 12:00:34 AM;
 	        Min inside temperature:  66.9&#176;F at 03:52:48 AM;
 	        Max inside temperature:  67.6&#176;F at 12:16:34 AM;
-	        Min barometer:           30.139 inHg at 07:35:00 AM;
+	        Min barometer:           30.121 inHg at 08:16:21 AM;
 	        Max barometer:           30.235 inHg at 12:10:31 AM;
             Max wind :               3 mph from 0&#176; at 06:40:04 AM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Tue, 08 Mar 2022 07:45:00 CST</pubDate>
+         <pubDate>Tue, 08 Mar 2022 08:45:00 CST</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
@@ -66,7 +66,7 @@
 	         Max Outside Temperature: 37.4&#176;F at 12:00:34 AM<br/>
 	         Min Inside Temperature:  66.9&#176;F at 03:52:48 AM<br/>
 	         Max Inside Temperature:  67.6&#176;F at 12:16:34 AM<br/>
-	         Min Barometer:           30.139 inHg at 07:35:00 AM<br/>
+	         Min Barometer:           30.121 inHg at 08:16:21 AM<br/>
 	         Max Barometer:           30.235 inHg at 12:10:31 AM<br/>
              Max Wind :               3 mph from 0&#176; at 06:40:04 AM<br/>
              Rain today:              0.00 in<br/>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 03/08/2022 07:45:00 AM</title>
+         <title>Monthly Weather Summary as of 03/08/2022 08:45:00 AM</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 30.9&#176;F at 03/01/2022 06:46:04 AM;
@@ -87,7 +87,7 @@
             Max wind :               20 mph from 180&#176; at 03/06/2022 03:42:40 PM;
             Rain total for month:    1.66 in
          </description>
-         <pubDate>Tue, 08 Mar 2022 07:45:00 CST</pubDate>
+         <pubDate>Tue, 08 Mar 2022 08:45:00 CST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   March 2022<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 03/08/2022 07:45:00 AM</title>
+         <title>Yearly Weather Summary as of 03/08/2022 08:45:00 AM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: 12.2&#176;F at 01/20/2022 12:24:57 PM;
@@ -116,7 +116,7 @@
             Max wind :               23 mph from 315&#176; at 01/15/2022 12:44:55 AM;
             Rain total for year:     443.50 in
          </description>
-         <pubDate>Tue, 08 Mar 2022 07:45:00 CST</pubDate>
+         <pubDate>Tue, 08 Mar 2022 08:45:00 CST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2022<br/>
