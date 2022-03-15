@@ -7,75 +7,75 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Tue, 15 Mar 2022 09:45:00 CDT</pubDate>
+      <pubDate>Tue, 15 Mar 2022 10:45:00 CDT</pubDate>
 
-      <lastBuildDate>Tue, 15 Mar 2022 09:45:00 CDT</lastBuildDate>
+      <lastBuildDate>Tue, 15 Mar 2022 10:45:00 CDT</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.8.2</generator>
       <ttl>5.000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 03/15/2022 09:45:00 AM</title>
+         <title>Weather Conditions at 03/15/2022 10:45:00 AM</title>
          <link></link>
          <description>
-           Outside temperature: 53.5&#176;F; 
-           Barometer: 30.119 inHg; 
-           Wind: 2 mph from 285&#176;; 
+           Outside temperature: 58.3&#176;F; 
+           Barometer: 30.135 inHg; 
+           Wind: 2 mph from 295&#176;; 
            Rain rate: 0.00 in/hr; 
-           Inside temperature: 67.1&#176;F
+           Inside temperature: 67.3&#176;F
          </description>
-         <pubDate>Tue, 15 Mar 2022 09:45:00 CDT</pubDate>
+         <pubDate>Tue, 15 Mar 2022 10:45:00 CDT</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                03/15/2022 09:45:00 AM<br/>
-             Outside Temperature: 53.5&#176;F<br/>
-             Inside Temperature:  67.1&#176;F<br/>
-             Wind Chill:          53.5&#176;F<br/>
-             Heat Index:          53.5&#176;F<br/>
-             Dewpoint:            50.7&#176;F<br/>
-             Humidity:            90%<br/>
-             Barometer:           30.119 inHg<br/>
-             Wind:                2 mph from 285&#176;<br/>
+             Time:                03/15/2022 10:45:00 AM<br/>
+             Outside Temperature: 58.3&#176;F<br/>
+             Inside Temperature:  67.3&#176;F<br/>
+             Wind Chill:          58.3&#176;F<br/>
+             Heat Index:          58.3&#176;F<br/>
+             Dewpoint:            56.5&#176;F<br/>
+             Humidity:            94%<br/>
+             Barometer:           30.135 inHg<br/>
+             Wind:                2 mph from 295&#176;<br/>
              Rain Rate:           0.00 in/hr<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 03/15/2022 09:45:00 AM</title>
+         <title>Daily Weather Summary as of 03/15/2022 10:45:00 AM</title>
          <link></link>
          <description>
 	        Min outside temperature: 47.5&#176;F at 07:21:01 AM;
-         	Max outside temperature: 53.6&#176;F at 09:39:11 AM;
+         	Max outside temperature: 58.6&#176;F at 10:44:39 AM;
 	        Min inside temperature:  66.2&#176;F at 08:04:34 AM;
 	        Max inside temperature:  69.3&#176;F at 12:00:47 AM;
 	        Min barometer:           30.032 inHg at 12:40:00 AM;
-	        Max barometer:           30.120 inHg at 09:28:02 AM;
-            Max wind :               7 mph from    N/A at 08:21:57 AM;
+	        Max barometer:           30.135 inHg at 10:40:26 AM;
+            Max wind :               11 mph from    N/A at 10:42:51 AM;
             Rain today:              0.01 in
          </description>
-         <pubDate>Tue, 15 Mar 2022 09:45:00 CDT</pubDate>
+         <pubDate>Tue, 15 Mar 2022 10:45:00 CDT</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
              Day:                     15 Mar 2022<br/>
 	         Min Outside Temperature: 47.5&#176;F at 07:21:01 AM<br/>
-	         Max Outside Temperature: 53.6&#176;F at 09:39:11 AM<br/>
+	         Max Outside Temperature: 58.6&#176;F at 10:44:39 AM<br/>
 	         Min Inside Temperature:  66.2&#176;F at 08:04:34 AM<br/>
 	         Max Inside Temperature:  69.3&#176;F at 12:00:47 AM<br/>
 	         Min Barometer:           30.032 inHg at 12:40:00 AM<br/>
-	         Max Barometer:           30.120 inHg at 09:28:02 AM<br/>
-             Max Wind :               7 mph from    N/A at 08:21:57 AM<br/>
+	         Max Barometer:           30.135 inHg at 10:40:26 AM<br/>
+             Max Wind :               11 mph from    N/A at 10:42:51 AM<br/>
              Rain today:              0.01 in<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 03/15/2022 09:45:00 AM</title>
+         <title>Monthly Weather Summary as of 03/15/2022 10:45:00 AM</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 24.4&#176;F at 03/12/2022 06:53:05 AM;
@@ -87,7 +87,7 @@
             Max wind :               20 mph from 180&#176; at 03/06/2022 03:42:40 PM;
             Rain total for month:    25.88 in
          </description>
-         <pubDate>Tue, 15 Mar 2022 09:45:00 CDT</pubDate>
+         <pubDate>Tue, 15 Mar 2022 10:45:00 CDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   March 2022<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 03/15/2022 09:45:00 AM</title>
+         <title>Yearly Weather Summary as of 03/15/2022 10:45:00 AM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: 12.2&#176;F at 01/20/2022 12:24:57 PM;
@@ -116,7 +116,7 @@
             Max wind :               23 mph from 315&#176; at 01/15/2022 12:44:55 AM;
             Rain total for year:     467.72 in
          </description>
-         <pubDate>Tue, 15 Mar 2022 09:45:00 CDT</pubDate>
+         <pubDate>Tue, 15 Mar 2022 10:45:00 CDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2022<br/>
