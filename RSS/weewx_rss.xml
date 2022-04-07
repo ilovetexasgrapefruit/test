@@ -7,44 +7,44 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Thu, 07 Apr 2022 15:45:00 CDT</pubDate>
+      <pubDate>Thu, 07 Apr 2022 16:45:00 CDT</pubDate>
 
-      <lastBuildDate>Thu, 07 Apr 2022 15:45:00 CDT</lastBuildDate>
+      <lastBuildDate>Thu, 07 Apr 2022 16:45:00 CDT</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.8.2</generator>
       <ttl>5.000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 04/07/2022 03:45:00 PM</title>
+         <title>Weather Conditions at 04/07/2022 04:45:00 PM</title>
          <link></link>
          <description>
-           Outside temperature: 69.3&#176;F; 
-           Barometer: 30.095 inHg; 
-           Wind: 11 mph from 292&#176;; 
+           Outside temperature: 68.1&#176;F; 
+           Barometer: 30.078 inHg; 
+           Wind: 6 mph from 292&#176;; 
            Rain rate: 0.00 in/hr; 
-           Inside temperature: 70.9&#176;F
+           Inside temperature: 71.2&#176;F
          </description>
-         <pubDate>Thu, 07 Apr 2022 15:45:00 CDT</pubDate>
+         <pubDate>Thu, 07 Apr 2022 16:45:00 CDT</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                04/07/2022 03:45:00 PM<br/>
-             Outside Temperature: 69.3&#176;F<br/>
-             Inside Temperature:  70.9&#176;F<br/>
-             Wind Chill:          69.3&#176;F<br/>
-             Heat Index:          69.3&#176;F<br/>
-             Dewpoint:            26.8&#176;F<br/>
-             Humidity:            20%<br/>
-             Barometer:           30.095 inHg<br/>
-             Wind:                11 mph from 292&#176;<br/>
+             Time:                04/07/2022 04:45:00 PM<br/>
+             Outside Temperature: 68.1&#176;F<br/>
+             Inside Temperature:  71.2&#176;F<br/>
+             Wind Chill:          68.1&#176;F<br/>
+             Heat Index:          68.1&#176;F<br/>
+             Dewpoint:            23.4&#176;F<br/>
+             Humidity:            18%<br/>
+             Barometer:           30.078 inHg<br/>
+             Wind:                6 mph from 292&#176;<br/>
              Rain Rate:           0.00 in/hr<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 04/07/2022 03:45:00 PM</title>
+         <title>Daily Weather Summary as of 04/07/2022 04:45:00 PM</title>
          <link></link>
          <description>
 	        Min outside temperature: 46.9&#176;F at 06:44:53 AM;
@@ -53,10 +53,10 @@
 	        Max inside temperature:  77.2&#176;F at 09:40:24 AM;
 	        Min barometer:           30.048 inHg at 12:16:07 AM;
 	        Max barometer:           30.192 inHg at 09:12:14 AM;
-            Max wind :               24 mph from    N/A at 02:06:51 PM;
-            Rain today:              0.00 in
+            Max wind :               28 mph from 292&#176; at 04:01:13 PM;
+            Rain today:              0.01 in
          </description>
-         <pubDate>Thu, 07 Apr 2022 15:45:00 CDT</pubDate>
+         <pubDate>Thu, 07 Apr 2022 16:45:00 CDT</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
@@ -68,14 +68,14 @@
 	         Max Inside Temperature:  77.2&#176;F at 09:40:24 AM<br/>
 	         Min Barometer:           30.048 inHg at 12:16:07 AM<br/>
 	         Max Barometer:           30.192 inHg at 09:12:14 AM<br/>
-             Max Wind :               24 mph from    N/A at 02:06:51 PM<br/>
-             Rain today:              0.00 in<br/>
+             Max Wind :               28 mph from 292&#176; at 04:01:13 PM<br/>
+             Rain today:              0.01 in<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 04/07/2022 03:45:00 PM</title>
+         <title>Monthly Weather Summary as of 04/07/2022 04:45:00 PM</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 43.0&#176;F at 04/01/2022 06:41:55 AM;
@@ -84,10 +84,10 @@
 	        Max inside temperature:  78.4&#176;F at 04/05/2022 09:28:55 AM;
 	        Min barometer:           29.359 inHg at 04/05/2022 06:50:00 PM;
 	        Max barometer:           30.192 inHg at 04/07/2022 09:12:14 AM;
-            Max wind :               26 mph from 315&#176; at 04/06/2022 05:19:26 AM;
-            Rain total for month:    2.21 in
+            Max wind :               28 mph from 292&#176; at 04/07/2022 04:01:13 PM;
+            Rain total for month:    2.22 in
          </description>
-         <pubDate>Thu, 07 Apr 2022 15:45:00 CDT</pubDate>
+         <pubDate>Thu, 07 Apr 2022 16:45:00 CDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   April 2022<br/>
@@ -97,14 +97,14 @@
 	         Min Inside Temperature:  65.5&#176;F at 04/01/2022 07:53:14 AM<br/>
 	         Min Barometer:           29.359 inHg at 04/05/2022 06:50:00 PM<br/>
 	         Max Barometer:           30.192 inHg at 04/07/2022 09:12:14 AM<br/>
-             Max Wind :               26 mph from 315&#176; at 04/06/2022 05:19:26 AM<br/>
-             Rain total for month:    2.21 in<br/>
+             Max Wind :               28 mph from 292&#176; at 04/07/2022 04:01:13 PM<br/>
+             Rain total for month:    2.22 in<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 04/07/2022 03:45:00 PM</title>
+         <title>Yearly Weather Summary as of 04/07/2022 04:45:00 PM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: 12.2&#176;F at 01/20/2022 12:24:57 PM;
@@ -113,10 +113,10 @@
 	        Max inside temperature:  78.4&#176;F at 04/05/2022 09:28:55 AM;
 	        Min barometer:           29.359 inHg at 04/05/2022 06:50:00 PM;
 	        Max barometer:           30.715 inHg at 01/10/2022 09:58:40 AM;
-            Max wind :               26 mph from 315&#176; at 04/06/2022 05:19:26 AM;
-            Rain total for year:     598.19 in
+            Max wind :               28 mph from 292&#176; at 04/07/2022 04:01:13 PM;
+            Rain total for year:     598.20 in
          </description>
-         <pubDate>Thu, 07 Apr 2022 15:45:00 CDT</pubDate>
+         <pubDate>Thu, 07 Apr 2022 16:45:00 CDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2022<br/>
@@ -126,8 +126,8 @@
 	         Min Inside Temperature:  63.0&#176;F at 01/02/2022 06:26:58 AM<br/>
 	         Min Barometer:           29.359 inHg at 04/05/2022 06:50:00 PM<br/>
 	         Max Barometer:           30.715 inHg at 01/10/2022 09:58:40 AM<br/>
-             Max Wind :               26 mph from 315&#176; at 04/06/2022 05:19:26 AM<br/>
-             Rain total for year:     598.19 in<br/>
+             Max Wind :               28 mph from 292&#176; at 04/07/2022 04:01:13 PM<br/>
+             Rain total for year:     598.20 in<br/>
         </p>
       ]]></content:encoded>
       </item>
