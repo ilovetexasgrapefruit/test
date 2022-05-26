@@ -7,15 +7,15 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Thu, 26 May 2022 13:45:00 CDT</pubDate>
+      <pubDate>Thu, 26 May 2022 14:45:00 CDT</pubDate>
 
-      <lastBuildDate>Thu, 26 May 2022 13:45:00 CDT</lastBuildDate>
+      <lastBuildDate>Thu, 26 May 2022 14:45:00 CDT</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.8.2</generator>
       <ttl>5.000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 05/26/2022 01:45:00 PM</title>
+         <title>Weather Conditions at 05/26/2022 02:45:00 PM</title>
          <link></link>
          <description>
            Outside temperature:    N/A; 
@@ -24,12 +24,12 @@
            Rain rate: 0.00 in/hr; 
            Inside temperature: 73.4&#176;F
          </description>
-         <pubDate>Thu, 26 May 2022 13:45:00 CDT</pubDate>
+         <pubDate>Thu, 26 May 2022 14:45:00 CDT</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                05/26/2022 01:45:00 PM<br/>
+             Time:                05/26/2022 02:45:00 PM<br/>
              Outside Temperature:    N/A<br/>
              Inside Temperature:  73.4&#176;F<br/>
              Wind Chill:             N/A<br/>
@@ -44,7 +44,7 @@
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 05/26/2022 01:45:00 PM</title>
+         <title>Daily Weather Summary as of 05/26/2022 02:45:00 PM</title>
          <link></link>
          <description>
 	        Min outside temperature:    N/A at    N/A;
@@ -56,7 +56,7 @@
             Max wind :                  N/A from    N/A at    N/A;
             Rain today:              0.00 in
          </description>
-         <pubDate>Thu, 26 May 2022 13:45:00 CDT</pubDate>
+         <pubDate>Thu, 26 May 2022 14:45:00 CDT</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 05/26/2022 01:45:00 PM</title>
+         <title>Monthly Weather Summary as of 05/26/2022 02:45:00 PM</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: -39.4&#176;F at 05/03/2022 08:33:36 AM;
@@ -87,7 +87,7 @@
             Max wind :               19 mph from    N/A at 05/02/2022 07:19:46 PM;
             Rain total for month:    43.91 in
          </description>
-         <pubDate>Thu, 26 May 2022 13:45:00 CDT</pubDate>
+         <pubDate>Thu, 26 May 2022 14:45:00 CDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   May 2022<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 05/26/2022 01:45:00 PM</title>
+         <title>Yearly Weather Summary as of 05/26/2022 02:45:00 PM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: -39.4&#176;F at 05/03/2022 08:33:36 AM;
@@ -116,7 +116,7 @@
             Max wind :               28 mph from 292&#176; at 04/07/2022 04:01:13 PM;
             Rain total for year:     680.43 in
          </description>
-         <pubDate>Thu, 26 May 2022 13:45:00 CDT</pubDate>
+         <pubDate>Thu, 26 May 2022 14:45:00 CDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2022<br/>
