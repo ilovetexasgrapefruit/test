@@ -7,15 +7,15 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Fri, 24 Jun 2022 23:45:00 CDT</pubDate>
+      <pubDate>Sat, 25 Jun 2022 00:45:00 CDT</pubDate>
 
-      <lastBuildDate>Fri, 24 Jun 2022 23:45:00 CDT</lastBuildDate>
+      <lastBuildDate>Sat, 25 Jun 2022 00:45:00 CDT</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.8.2</generator>
       <ttl>5.000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 06/24/2022 11:45:00 PM</title>
+         <title>Weather Conditions at 06/25/2022 12:45:00 AM</title>
          <link></link>
          <description>
            Outside temperature:    N/A; 
@@ -24,12 +24,12 @@
            Rain rate: 0.00 in/hr; 
            Inside temperature: 71.9&#176;F
          </description>
-         <pubDate>Fri, 24 Jun 2022 23:45:00 CDT</pubDate>
+         <pubDate>Sat, 25 Jun 2022 00:45:00 CDT</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                06/24/2022 11:45:00 PM<br/>
+             Time:                06/25/2022 12:45:00 AM<br/>
              Outside Temperature:    N/A<br/>
              Inside Temperature:  71.9&#176;F<br/>
              Wind Chill:             N/A<br/>
@@ -44,28 +44,28 @@
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 06/24/2022 11:45:00 PM</title>
+         <title>Daily Weather Summary as of 06/25/2022 12:45:00 AM</title>
          <link></link>
          <description>
 	        Min outside temperature:    N/A at    N/A;
          	Max outside temperature:    N/A at    N/A;
-	        Min inside temperature:  71.1&#176;F at 12:54:21 AM;
-	        Max inside temperature:  74.7&#176;F at 09:18:10 AM;
+	        Min inside temperature:  71.2&#176;F at 12:06:08 AM;
+	        Max inside temperature:  72.7&#176;F at 12:18:12 AM;
 	        Min barometer:              N/A at    N/A;
 	        Max barometer:              N/A at    N/A;
             Max wind :                  N/A from    N/A at    N/A;
             Rain today:              0.00 in
          </description>
-         <pubDate>Fri, 24 Jun 2022 23:45:00 CDT</pubDate>
+         <pubDate>Sat, 25 Jun 2022 00:45:00 CDT</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Day:                     24 Jun 2022<br/>
+             Day:                     25 Jun 2022<br/>
 	         Min Outside Temperature:    N/A at    N/A<br/>
 	         Max Outside Temperature:    N/A at    N/A<br/>
-	         Min Inside Temperature:  71.1&#176;F at 12:54:21 AM<br/>
-	         Max Inside Temperature:  74.7&#176;F at 09:18:10 AM<br/>
+	         Min Inside Temperature:  71.2&#176;F at 12:06:08 AM<br/>
+	         Max Inside Temperature:  72.7&#176;F at 12:18:12 AM<br/>
 	         Min Barometer:              N/A at    N/A<br/>
 	         Max Barometer:              N/A at    N/A<br/>
              Max Wind :                  N/A from    N/A at    N/A<br/>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 06/24/2022 11:45:00 PM</title>
+         <title>Monthly Weather Summary as of 06/25/2022 12:45:00 AM</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 67.5&#176;F at 06/02/2022 01:30:00 AM;
@@ -87,7 +87,7 @@
             Max wind :               5 mph from 248&#176; at 06/03/2022 05:46:34 PM;
             Rain total for month:    0.00 in
          </description>
-         <pubDate>Fri, 24 Jun 2022 23:45:00 CDT</pubDate>
+         <pubDate>Sat, 25 Jun 2022 00:45:00 CDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   June 2022<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 06/24/2022 11:45:00 PM</title>
+         <title>Yearly Weather Summary as of 06/25/2022 12:45:00 AM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: -39.4&#176;F at 05/03/2022 08:33:36 AM;
@@ -116,7 +116,7 @@
             Max wind :               28 mph from 292&#176; at 04/07/2022 04:01:13 PM;
             Rain total for year:     680.43 in
          </description>
-         <pubDate>Fri, 24 Jun 2022 23:45:00 CDT</pubDate>
+         <pubDate>Sat, 25 Jun 2022 00:45:00 CDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2022<br/>
