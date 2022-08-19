@@ -7,31 +7,31 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Fri, 19 Aug 2022 10:45:00 CDT</pubDate>
+      <pubDate>Fri, 19 Aug 2022 11:55:00 CDT</pubDate>
 
-      <lastBuildDate>Fri, 19 Aug 2022 10:45:00 CDT</lastBuildDate>
+      <lastBuildDate>Fri, 19 Aug 2022 11:55:00 CDT</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.8.2</generator>
       <ttl>5.000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 08/19/2022 10:45:00 AM</title>
+         <title>Weather Conditions at 08/19/2022 11:55:00 AM</title>
          <link></link>
          <description>
            Outside temperature:    N/A; 
            Barometer:    N/A; 
            Wind:    N/A from    N/A; 
            Rain rate: 0.00 in/hr; 
-           Inside temperature: 73.1&#176;F
+           Inside temperature: 73.4&#176;F
          </description>
-         <pubDate>Fri, 19 Aug 2022 10:45:00 CDT</pubDate>
+         <pubDate>Fri, 19 Aug 2022 11:55:00 CDT</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                08/19/2022 10:45:00 AM<br/>
+             Time:                08/19/2022 11:55:00 AM<br/>
              Outside Temperature:    N/A<br/>
-             Inside Temperature:  73.1&#176;F<br/>
+             Inside Temperature:  73.4&#176;F<br/>
              Wind Chill:             N/A<br/>
              Heat Index:             N/A<br/>
              Dewpoint:               N/A<br/>
@@ -44,30 +44,30 @@
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 08/19/2022 10:45:00 AM</title>
+         <title>Daily Weather Summary as of 08/19/2022 11:55:00 AM</title>
          <link></link>
          <description>
-	        Min outside temperature:    N/A at    N/A;
-         	Max outside temperature:    N/A at    N/A;
+	        Min outside temperature: 67.5&#176;F at 11:42:30 AM;
+         	Max outside temperature: 67.5&#176;F at 11:42:30 AM;
 	        Min inside temperature:  71.6&#176;F at 01:43:23 AM;
-	        Max inside temperature:  73.6&#176;F at 09:42:52 AM;
-	        Min barometer:              N/A at    N/A;
-	        Max barometer:              N/A at    N/A;
+	        Max inside temperature:  73.8&#176;F at 11:19:23 AM;
+	        Min barometer:           29.928 inHg at 11:42:30 AM;
+	        Max barometer:           29.928 inHg at 11:42:30 AM;
             Max wind :               5 mph from 248&#176; at 07:46:03 AM;
             Rain today:              0.00 in
          </description>
-         <pubDate>Fri, 19 Aug 2022 10:45:00 CDT</pubDate>
+         <pubDate>Fri, 19 Aug 2022 11:55:00 CDT</pubDate>
 	     <geo:lat>32.935501</geo:lat>
     	 <geo:long>-96.551652</geo:long>
  		 <content:encoded><![CDATA[
            <p>
              Day:                     19 Aug 2022<br/>
-	         Min Outside Temperature:    N/A at    N/A<br/>
-	         Max Outside Temperature:    N/A at    N/A<br/>
+	         Min Outside Temperature: 67.5&#176;F at 11:42:30 AM<br/>
+	         Max Outside Temperature: 67.5&#176;F at 11:42:30 AM<br/>
 	         Min Inside Temperature:  71.6&#176;F at 01:43:23 AM<br/>
-	         Max Inside Temperature:  73.6&#176;F at 09:42:52 AM<br/>
-	         Min Barometer:              N/A at    N/A<br/>
-	         Max Barometer:              N/A at    N/A<br/>
+	         Max Inside Temperature:  73.8&#176;F at 11:19:23 AM<br/>
+	         Min Barometer:           29.928 inHg at 11:42:30 AM<br/>
+	         Max Barometer:           29.928 inHg at 11:42:30 AM<br/>
              Max Wind :               5 mph from 248&#176; at 07:46:03 AM<br/>
              Rain today:              0.00 in<br/>
         </p>
@@ -75,19 +75,19 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 08/19/2022 10:45:00 AM</title>
+         <title>Monthly Weather Summary as of 08/19/2022 11:55:00 AM</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: -16.9&#176;F at 08/07/2022 09:19:13 PM;
          	Max outside temperature: 67.9&#176;F at 08/14/2022 05:37:07 AM;
 	        Min inside temperature:  70.2&#176;F at 08/04/2022 11:55:18 PM;
 	        Max inside temperature:  81.1&#176;F at 08/03/2022 09:42:22 AM;
-	        Min barometer:           29.931 inHg at 08/14/2022 05:40:00 AM;
+	        Min barometer:           29.928 inHg at 08/19/2022 11:42:30 AM;
 	        Max barometer:           30.060 inHg at 08/07/2022 09:20:00 PM;
             Max wind :               5 mph from 248&#176; at 08/03/2022 02:34:06 PM;
             Rain total for month:    0.00 in
          </description>
-         <pubDate>Fri, 19 Aug 2022 10:45:00 CDT</pubDate>
+         <pubDate>Fri, 19 Aug 2022 11:55:00 CDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   August 2022<br/>
@@ -95,7 +95,7 @@
 	         Min Outside Temperature: -16.9&#176;F at 08/07/2022 09:19:13 PM<br/>
 	         Max Inside Temperature:  81.1&#176;F at 08/03/2022 09:42:22 AM<br/>
 	         Min Inside Temperature:  70.2&#176;F at 08/04/2022 11:55:18 PM<br/>
-	         Min Barometer:           29.931 inHg at 08/14/2022 05:40:00 AM<br/>
+	         Min Barometer:           29.928 inHg at 08/19/2022 11:42:30 AM<br/>
 	         Max Barometer:           30.060 inHg at 08/07/2022 09:20:00 PM<br/>
              Max Wind :               5 mph from 248&#176; at 08/03/2022 02:34:06 PM<br/>
              Rain total for month:    0.00 in<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 08/19/2022 10:45:00 AM</title>
+         <title>Yearly Weather Summary as of 08/19/2022 11:55:00 AM</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: -39.4&#176;F at 05/03/2022 08:33:36 AM;
@@ -116,7 +116,7 @@
             Max wind :               28 mph from 292&#176; at 04/07/2022 04:01:13 PM;
             Rain total for year:     680.43 in
          </description>
-         <pubDate>Fri, 19 Aug 2022 10:45:00 CDT</pubDate>
+         <pubDate>Fri, 19 Aug 2022 11:55:00 CDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2022<br/>
